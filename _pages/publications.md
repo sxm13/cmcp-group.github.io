@@ -66,7 +66,7 @@ permalink: /publications/
   {{ publi.authors }}<br/>
   <b>{{ publi.journal }}</b>, {{ publi.journal_pagination }} ({{publi.year}}) <br/>
   {% if publi.doi %}<a href="http://dx.doi.org/{{ publi.doi }}" target="blank"><button class="btn-doi">DOI</button></a> {% endif %}
-  <button class="btn-funding1">NRF</button>
+  <button class="btn-funding1">NRF-2020R1C1C1010373</button>
 
 </li>
 </ul>
