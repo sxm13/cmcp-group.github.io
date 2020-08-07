@@ -1,42 +1,16 @@
-- name: Gijsbert Verdoes
-  photo: verdoes.jpg
-  duration: In the Allan Lab 2015 - 2018, now Project manager at the FMD
-  info: Fine mechanical engineer associated with the FMD working in our group
-  email: verdoes@fmd.physics.leidenuniv.nl
-  number_educ: 1
-  education1: Leidse instrumentmakers School
-  education2:
-  education3:
-  education4:
-
-- name: Irene Battisti
+- name: 이슬*
   photo: irene.jpg
-  info: PhD student
-  duration: In the Allan Lab Jan 2015 to June 2019, now R&D scientist at Nearfield Instruments
-  email: Battisti@Physics.LeidenUniv.nl
-  number_educ: 3
-  education1: Master Padova University
-  education2: Master thesis at Leiden University with <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Jan van Ruitenbeek</a>
-  education3: PhD Leiden University!
+  info: graduated under BS/MS program
+  after_CMCP_lab: 대전 SK Innovation
+  number_educ: 2
+  education1: M.S., Chemical Engineering, Pusan National University, 2020
+  education2: B.S., Chemical Engineering, Pusan National University, 2018
 
-- name: Doohee Cho
-  photo: Doohee2.jpg
-  info: Postdoc
-  duration: In the Allan Lab May 2017 to June 2019, now assistant professor at Yonsei University
-  email: cho@physics.leidenuniv.nl
-  number_educ: 4
-  education1: B.S. Yonsei University, Korea
-  education2: PhD Yonsei University, Korea with <a href="http://web.yonsei.ac.kr/nano/%ED%95%99%EA%B3%BC%EC%86%8C%EA%B0%9C.htm">In-Whan Lyo</a>
-  education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
-  education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
-
-- name: Maarten Leeuwenhoek
-  photo: Maarten.png
-  info: PhD Student, shared with the <a href="http://www.groeblacherlab.tudelft.nl">Groeblacher lab</a> at TU Delft under a NanoFront grant.
-  email: M.Leeuwenhoek@tudelft.nl
-  duration: In the Allan Lab December 2015 to February 2020, now assistant professor at Yonsei University
-  number_educ: 1
-  education1: Master Leiden University with Milan Allan
-  education2:
-  education3:
-  education4:
+- name: 남*명
+  photo: empty_profile.png
+  degrees: graduated with M.S.
+  info: Screening of SF<sub>6</sub>/N<sub>2</sub> separation
+  after_CMCP_lab: 서울 한국제지 연구소
+  number_educ: 2
+  education1: M.S., Chemical Engineering, Pusan National University, 2019
+  education2: B.S., Kyungpook National University, 2017
