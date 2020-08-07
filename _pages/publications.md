@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Computational Materials and Chemical Processes Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Computational Materials and Chemical Processes Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---

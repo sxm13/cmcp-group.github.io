@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Computational Materials and Chemical Processes Laboratory."
+excerpt: "Computational Materials and Chemical Processes Laboratory"
 sitemap: false
 permalink: /allnews.html
 ---

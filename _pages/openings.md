@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "Computational Materials and Chemical Processes Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
