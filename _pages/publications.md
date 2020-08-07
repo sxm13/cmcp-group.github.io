@@ -23,25 +23,23 @@ permalink: /publications/
 {% endif %}
 
 {% for publi in site.data.publist %}
-{% if publi.year %}{% else %}
-
-<div class="well-sm">
-<ul class="flex-container">
-<li class="flex-item1">
+  {% if publi.year %}{% else %}
+  <div class="well-sm">
+  <ul class="flex-container">
+  <li class="flex-item1">
   {% if publi.image %}
    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="90%" style="float: left" />
   {% endif %}
-</li>
-<li class="flex-item2">
+  </li>
+  <li class="flex-item2">
   <strong> {{ publi.title }}</strong><br/>
   <i>{{ publi.authors }} </i><br/>
   {{ publi.display }}<br/>
   {% if publi.doi %}<a href="http://dx.doi.org/{{ publi.doi }}" target="blank"><button class="btn-doi">DOI</button></a> {% endif %}
-
-</li>
-</ul>
-</div>
-{% endif %}
+  </li>
+  </ul>
+  </div>
+  {% endif %}
 {% endfor %}
 
 {% if site.group_pub_by_year == true %}{% else %}
