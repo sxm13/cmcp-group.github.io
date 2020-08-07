@@ -64,7 +64,7 @@ We leverages multi-scale modeling methods to evalute the performance of next-gen
 We are grateful for funding from the NRF of Korea, and from KITECH, and for the computational resources provided by KISTI.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NRF-korea.png" style="width: 190px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KITECH.jpg" style="width: 190px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KORE1.png" style="width: 190px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NRF-korea.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KITECH.jpg" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KORE1.png" style="width: 200px">
 </figure>
