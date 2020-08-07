@@ -25,16 +25,6 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 {% if publi.year %}{% else %}
 
-{% assign bibtest = false %}
-{% if publi.url %}
-{% assign bibfile = "/papers/" | append:  publi.url  | append: ".txt" %}
-{% for file in site.static_files %}
-  {% if file.path contains bibfile %}
-   {% assign bibtest = true %}
-  {% endif %}
-{% endfor %}
-{% endif %}
-
 <div class="well-sm">
 <ul class="flex-container">
 <li class="flex-item1">
@@ -47,18 +37,6 @@ permalink: /publications/
   <i>{{ publi.authors }} </i><br/>
   {{ publi.display }}<br/>
   {% if publi.doi %}<a href="http://dx.doi.org/{{ publi.doi }}" target="blank"><button class="btn-doi">DOI</button></a> {% endif %}
-
-{% if publi.abstract %}
-<div class="collapse" id="{{publi.url}}"><div class="well-abstract">
- {{publi.abstract}}
-</div></div>
-{% endif %}
-
-{% if bibtest == true %}
-<div class="collapse" id="{{publi.url}}2"><div class="well-bib">
- <iframe src='{{site.url}}{{site.baseurl}}/papers/{{publi.url}}.txt' scrolling='yes' width="100%" height="210" frameborder='0'></iframe>
-</div></div>
-{% endif %}
 
 </li>
 </ul>
@@ -88,17 +66,6 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 {% if publi.year == myyear.year %}
 
-
-{% assign bibtest = false %}
-{% if publi.url %}
-{% assign bibfile = "/papers/" | append:  publi.url  | append: ".txt" %}
-{% for file in site.static_files %}
-  {% if file.path contains bibfile %}
-   {% assign bibtest = true %}
-  {% endif %}
-{% endfor %}
-{% endif %}
-
 <div class="well-sm">
 <ul class="flex-container">
 <li class="flex-item1">
@@ -111,19 +78,6 @@ permalink: /publications/
   <i>{{ publi.authors }} </i><br/>
   {{ publi.display }} {% if publi.year %}({{publi.year}}){% endif %}<br/>
   {% if publi.doi %}<a href="http://dx.doi.org/{{ publi.doi }}" target="blank"><button class="btn-doi">DOI</button></a> {% endif %}
-
-{% if publi.abstract %}
-<br/>
-<div class="collapse" id="{{publi.url}}"><div class="well-abstract">
- {{publi.abstract}}
-</div></div>
-{% endif %}
-
-{% if bibtest == true %}
-<div class="collapse" id="{{publi.url}}2"><div class="well-bib">
-<iframe src='{{site.url}}{{site.baseurl}}/papers/{{publi.url}}.txt' scrolling='yes' width="100%" height="210" frameborder='0'></iframe>
-</div></div>
-{% endif %}
 
 </li>
 </ul>
