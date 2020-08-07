@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **We are looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are looking for new PhD students, and Master students to join the team in March 2021** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 Jump to [members](#Members), and [alumni](#alumni).
 
@@ -18,8 +18,8 @@ Jump to [members](#Members), and [alumni](#alumni).
 
 <div class="row">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
-  <h3>{{ member.name }}</h3>
-  <h3><b>{{ member.info }}</b></h3>
+  <h4>{{ member.name }}</h4>
+  <h4><b>{{ member.info }}</b></h4>
   <a href="{{ member.scholar }}">Google Scholar</a>
   <ul style="overflow: hidden">
 

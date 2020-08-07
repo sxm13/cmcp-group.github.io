@@ -65,6 +65,6 @@ We are also grateful for the computational resources provided by KISTI.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NRF-korea.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KITECH.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KORE-1.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KITECH.gif" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KORE1.png" style="width: 120px">
 </figure>
