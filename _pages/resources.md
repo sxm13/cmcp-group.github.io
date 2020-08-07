@@ -2,7 +2,7 @@
 title: "Computational Materials and Chemical Processes Lab - Resources"
 layout: textlay
 excerpt: "Computational Materials and Chemical Processes Lab -- Resources"
-permalink: /pictures/
+permalink: /resources/
 ---
 
 Useful tools, references related to what we do in our lab.

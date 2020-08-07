@@ -6,10 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-우리 연구실은 다차원 전산모사기법을 바탕으로 차세대 소재들을 활용한 에너지 저장, 가스 정제/분리, 촉매 전환 반응등 화공기술을 기반으로한 기초 및 응용 연구들을 수행하고 있습니다.
-
-We leverages multi-scale modeling methods to evalute the performance of next-generation materials for gas purification/separation, energy storage, and catalysis.
-
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -58,10 +54,9 @@ We leverages multi-scale modeling methods to evalute the performance of next-gen
   </a>
 </div>
 
+우리 연구실은 다차원 전산모사기법을 바탕으로 차세대 소재들을 활용한 에너지 저장, 가스 정제/분리, 촉매 전환 반응등 화공기술을 기반으로한 기초 및 응용 연구들을 수행하고 있습니다.
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
+We leverages multi-scale modeling methods to evalute the performance of next-generation materials for gas purification/separation, energy storage, and catalysis. (see [Research](research)).
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
