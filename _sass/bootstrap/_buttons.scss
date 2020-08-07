@@ -89,7 +89,7 @@ a.btn {
 }
 
 // buttons from sbryngelson website
-.btn-nrfone {
+.btn-nrf-2019 {
   display: inline-block;
   margin-bottom: 0; // For input.btn
   font-weight: bold;
@@ -115,8 +115,7 @@ a.btn {
   }
 }
 
-<<<<<<< HEAD
-.btn-nrftwo {
+.btn-nrf-2020 {
   display: inline-block;
   margin-bottom: 0; // For input.btn
   font-weight: bold;
@@ -142,24 +141,7 @@ a.btn {
   }
 }
 
-.btn-kscone {
-  display: inline-block;
-  margin-bottom: 0; // For input.btn
-  font-weight: bold;
-  // font-weight: $btn-font-weight;
-  text-align: center;
-  vertical-align: middle;
-  touch-action: manipulation;
-  cursor: pointer;
-  background-image: none; // Reset unusual Firefox-on-Android default style; see https://github.com/necolas/normalize.css/issues/214
-  border: 0px solid transparent;
-  white-space: nowrap;
-  color: $gray-lighter;
-  background-color: $btn-success-bg;
-  @include button-size($padding-base-vertical*0.3, $padding-base-horizontal, $font-size-small, $line-height-base, $btn-border-radius-base);
-  @include user-select(none);
-
-  .btn-comp2 {
+.btn-kcs-2019 {
     display: inline-block;
     margin-bottom: 0; // For input.btn
     font-weight: bold;
@@ -185,7 +167,7 @@ a.btn {
   }
 }
 
-.btn-ksctwo {
+.btn-ksc-2020 {
   display: inline-block;
   margin-bottom: 0; // For input.btn
   font-weight: bold;
@@ -212,8 +194,6 @@ a.btn {
 }
 
 
-=======
->>>>>>> parent of d924b2e... misc
 .btn-doi {
   display: inline-block;
   margin-bottom: 0; // For input.btn
