@@ -2,7 +2,8 @@
   authors:
     Archit Datar, Yongchul G. Chung, Li-Chiang Lin
   image: ml-bet-2020.gif
-  display: Journal of Physical Chemistry Letters, 11, 14, 5412 - 5417
+  journal: Journal of Physical Chemistry Letters
+  journal_pagination: 11, 14, 5412 - 5417
   year: 2020
   doi: 10.1021/acs.jpclett.0c01518
 
@@ -10,7 +11,8 @@
   authors:
     Sehee Kang, Yongchul G. Chung, Jo Hong Kang, Hojun Song
   image: ml-bet-2020.gif
-  display: Journal of Molecular Liquids, 297, 111825
+  display: Journal of Molecular Liquids
+  journal_pagination: 297, 111825
   year: 2020
   doi: 10.1016/j.molliq.2019.111825
 
@@ -18,6 +20,7 @@
   authors:
     Yongchul G. Chung, Emmanuel Haldoupis, Benjamin J. Bucior, Maciej Haranczyk, Seulchan Lee, Hongda Zhang, Konstantinos D. Vogiatzis, M. Milisavljevic, Sanliang Ling, Jeffrey S. Camp, Ben Slater, J. Ilja Siepmann, David S. Sholl, Randall Q. Snurr
   image: ml-bet-2020.gif
-  display: Journal of Chemical & Engineering Data, 61, 12, 5985 - 5998
+  display: Journal of Chemical & Engineering Data
+  journal_pagination: 61, 12, 5985 - 5998
   year: 2019
   doi: 10.1021/acs.jced.9b00835
