@@ -21,7 +21,7 @@ Jump to [members](#Members), and [alumni](#alumni).
   <h3>{{ member.name }}</h3>
   <i style="font-size:18px">{{ member.info }}</i><br>
 
-  {% if member.scholar %} <a href="{{ member.scholar }}" target="\_blank"><i class="ai ai-google-scholar-square ai-3x"></i></a> {% endif %}
+  {% if member.scholar %} <a href="{{ member.scholar }}"><i class="ai ai-google-scholar-square ai-3x"></i></a> {% endif %}
 
   {% if member.number_educ == 1 %}
     <li> {{ member.education1 }} </li>
