@@ -60,8 +60,7 @@ We leverages multi-scale modeling methods to evalute the performance of next-gen
 
 **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-We are grateful for funding from the NRF of Korea, and from KITECH.
-We are also grateful for the computational resources provided by KISTI.
+We are grateful for funding from the NRF of Korea, and from KITECH, and for the computational resources provided by KISTI.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NRF-korea.png" style="width: 210px">
