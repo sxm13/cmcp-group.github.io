@@ -1,18 +1,18 @@
 - name: 윤성현 (Sunghyun Yun)
   photo: empty_profile.png
-  info: MS/PhD student, started March 2019
+  info: MS/PhD student, joined March 2019
   number_educ: 1
   education1: B.S., Chemical Engineering, Pusan National University, 2019
 
 - name: 차재훈 (Jaehoon Cha)
   photo: empty_profile.png
-  info: MS/PhD student, March 2020 ~
+  info: MS/PhD student, joined March 2020
   number_educ: 1
   education1: B.S., Chemical Engineering, Pusan National University, 2020
 
 - name: Anjali Bai
   photo: empty_profile.png
-  info: Postdoc, April 2020 ~
+  info: Postdoc, joined April 2020
   number_educ: 3
   education1: Ph.D., Chemical Science, SCIR-NIIST, 2019
   education2: MSc., St. Aloysius College, 2011
@@ -20,27 +20,27 @@
 
 - name: 가성빈 (Ga Seongbin)
   photo: empty_profile.png
-  info: Postdoc, August 2020 ~
+  info: Postdoc, joined August 2020
   number_educ: 2
   education1: Ph.D., Chemical and Biomolecular Engineering, KAIST
   education2: B.S., Chemical and Biomolecular Engineering, Yonsei University
 
 - name: 赵国斌 (Zhao Guobin)
   photo: empty_profile.png
-  info: PhD Student, September 2020 ~
+  info: PhD Student, joined September 2020
   number_educ: 2
   education1: M.S., Jimei University, 2020
   education2: B.S., Zhejiang Ocean University, 2018
 
 - name: 陈豫 (Chen Yu)
   photo: empty_profile.png
-  info: MS/PhD student, September 2020 ~
+  info: MS/PhD student, joined September 2020
   number_educ: 1
   education1: B.S., New Energy Science & Technology, Huazhong University of Science and Technology, 2020
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  info: See <a href="http://cmcp-group.github.io/vacancies">openings</a> for more info
   email: drygchung@gmail.com
   number_educ: 0
   education1:
