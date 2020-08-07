@@ -70,7 +70,6 @@ permalink: /publications/
   {% if publi.nrf-2020 %}<button class="btn-nrf-2020">NRF-2020R1C1C1010373</button><% endif %>
   {% if publi.ksc-2019 %}<button class="btn-ksc-2019">KSC-2019-CRE-0203</button><% endif %>
   {% if publi.ksc-2020 %}<button class="btn-ksc-2020">KSC-2020-CRE-0013</button><% endif %>
-  <button class="btn-funding1">NRF-2020R1C1C1010373</button>
 
 </li>
 </ul>
