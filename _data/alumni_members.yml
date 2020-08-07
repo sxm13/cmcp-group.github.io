@@ -1,6 +1,6 @@
 - name: 이슬*
   photo: empty_profile.png
-  info: graduated under BS/MS program
+  info: graduated under BS/MS program, 2020
   after_CMCP_lab: 대전 SK Innovation
   number_educ: 2
   education1: M.S., Chemical Engineering, Pusan National University, 2020
@@ -8,8 +8,8 @@
 
 - name: 남*명
   photo: empty_profile.png
-  degrees: graduated with M.S.
-  info: Screening of SF<sub>6</sub>/N<sub>2</sub> separation
+  info: graduated with M.S., 2019
+  project: Screening of SF<sub>6</sub>/N<sub>2</sub> separation
   after_CMCP_lab: 서울 한국제지 연구소
   number_educ: 2
   education1: M.S., Chemical Engineering, Pusan National University, 2019

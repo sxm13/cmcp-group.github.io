@@ -88,7 +88,9 @@ Jump to [members](#Members), and [alumni](#alumni).
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  {{ member.info }} <br>
+  Immediately after CMCP Lab: {{ member.after_CMCP_lab }} <br>
+
   <ul style="overflow: hidden">
 
   </ul>
