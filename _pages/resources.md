@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Pictures"
+title: "Computational Materials and Chemical Processes Lab - Resources"
 layout: textlay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "Computational Materials and Chemical Processes Lab -- Resources"
 permalink: /pictures/
 ---
 
