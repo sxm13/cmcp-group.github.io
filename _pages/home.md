@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "계산소재 및 화학공정 연구실"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "부산대학교 계산소재 및 화학공정 연구실"
 sitemap: false
 permalink: /
 ---
