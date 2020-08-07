@@ -19,7 +19,7 @@ Jump to [members](#Members), and [alumni](#alumni).
 <div class="row">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h3>{{ member.name }}</h3>
-  <b><i style="font-size:18px">{{ member.info }}</i></b><br>
+  <h3><b>{{ member.info }}</b></h3><br>
 
   {% if member.scholar %} <a href="{{ member.scholar }}">Google Scholar</a> {% endif %}
 
