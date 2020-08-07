@@ -8,8 +8,6 @@ permalink: /team/
 
 # Group Members
 
- **We are looking for new PhD students, and Master students to join the team in March 2021** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
 Jump to [members](#Members), and [alumni](#alumni).
 
 ## Principal Investigator
