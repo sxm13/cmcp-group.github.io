@@ -73,7 +73,7 @@ permalink: /publications/
 </li>
 <li class="flex-item2">
   <b>{{ publi.title }}</b><br/>
-  <i>{{ publi.authors }} </i><br/>
+  {{ publi.authors }}<br/>
   {{ publi.display }} {% if publi.year %}({{publi.year}}){% endif %}<br/>
   {% if publi.doi %}<a href="http://dx.doi.org/{{ publi.doi }}" target="blank"><button class="btn-doi">DOI</button></a> {% endif %}
 
