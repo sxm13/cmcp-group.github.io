@@ -27,58 +27,30 @@
   education2: MSc., St. Aloysius College, 2011
   education3: BSc., Chemistry, Microbiology, Zoology, St.Aloysius College, 2009
 
-- name: Willem Tromp
-  photo: website_pic_willem.jpg
-  info: PhD Student, started September 2018
-  email: WTromp@physics.leidenuniv.nl
+- name: 가성빈 (Ga Seongbin)
+  photo: empty_profile.png
+  info: Postdoc, August 2020 ~
+  number_educ: 2
+  education1: Ph.D., Chemical and Biomolecular Engineering, KAIST
+  education2: B.S., Chemical and Biomolecular Engineering, Yonsei University
+
+- name: 赵国斌 (Zhao Guobin)
+  photo: empty_profile.png
+  info: PhD Student, September 2020 ~
+  number_educ: 2
+  education1: M.S., Jimei University, 2020
+  education2: B.S., Zhejiang Ocean University, 2018
+
+- name: 陈豫 (Chen Yu)
+  photo: empty_profile.png
+  info: MS/PhD student, September 2020 ~
   number_educ: 1
-  education1: Master Leiden University with Felix Baumberger, Milan Allan
-  education2:
-  education3:
-  education4:
-
-- name: Tjerk Benschop
-  photo: tjeruk.jpg
-  info: PhD Student, started November 2018
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Master Leiden University with Milan Allan
-  education2: Casimir PhD grant
-  education3:
-  education4:
-
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: FFine mechanical engineer (also associated with the FMD)
-  email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
-
-- name: Freek Groenewoud
-  photo: Freek.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: Groenewoud@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse Instrumentmaker School
-  education2: Mechanical Engineer , Hogeschool  Delft
-  education3:
-  education4:
-
-- name: Hugo van Bohemen
-  photo: hugo.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: h.s.m.van.bohemen@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Leidse Instrumentmakers School
-  education2:
-  education3:
-  education4:
+  education1: B.S., New Energy Science & Technology, Huazhong University of Science and Technology, 2020
 
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  email: drygchung@gmail.com
   number_educ: 0
   education1:
   education2:

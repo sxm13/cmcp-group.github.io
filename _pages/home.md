@@ -1,7 +1,7 @@
 ---
-title: "계산소재 및 화학공정 연구실"
+title: "Computational Materials and Chemical Processes Laboratory - Home"
 layout: homelay
-excerpt: "부산대학교 계산소재 및 화학공정 연구실"
+excerpt: Computational Materials and Chemical Processes Laboratory"
 sitemap: false
 permalink: /
 ---

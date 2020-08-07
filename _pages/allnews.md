@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Computational Materials and Chemical Processes Laboratory."
 sitemap: false
 permalink: /allnews.html
 ---
