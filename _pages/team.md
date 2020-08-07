@@ -16,7 +16,7 @@ Jump to [members](#Members), and [alumni](#alumni).
 
 {% for member in site.data.pi %}
 
-<div class="row">
+<div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h3>{{ member.name }}</h3>
   <h3><b>{{ member.info }}</b></h3><br>
