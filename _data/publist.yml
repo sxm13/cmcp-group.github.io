@@ -7,6 +7,7 @@
   year: 2020
   doi: 10.1021/acs.jpclett.0c01518
   funding1: true
+  comp1:
 
 - title: "CO2 Absorption Characteristics of Amino Group Functionalized Imidazolium-based Amino Acid Ionic Liquids"
   authors:
@@ -16,7 +17,6 @@
   journal_pagination: 297, 111825
   year: 2020
   doi: 10.1016/j.molliq.2019.111825
-  funding1: false
 
 - title: "Advances, Updates, and Analytics for the Computation-Ready, Experimental Metal-Organic Framework Database: CoRE MOF 2019"
   authors:
