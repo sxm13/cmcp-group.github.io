@@ -19,24 +19,58 @@ Jump to [members](#Members), and [alumni](#alumni).
 <div class="row">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h3>{{ member.name }}</h3>
-  <h3><b>{{ member.info }}</b></h3><br>
+  <b><i style="font-size:18px">{{ member.info }}</i></b<><br>
 
-  <a href="{{ member.scholar }}">Google Scholar</a>
+  {% if member.scholar %} <a href="{{ member.scholar }}"><i class="ai ai-google-scholar-square ai-3x"></i></a> {% endif %}
 
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
+  {% if member.number_educ == 1 %}
+    <li> {{ member.education1 }} </li>
+    {% endif %}
 
-</div>
+    {% if member.number_educ == 2 %}
+    <li> {{ member.education1 }} </li>
+    <li> {{ member.education2 }} </li>
+    {% endif %}
+
+    {% if member.number_educ == 3 %}
+    <li> {{ member.education1 }} </li>
+    <li> {{ member.education2 }} </li>
+    <li> {{ member.education3 }} </li>
+    {% endif %}
+
+    {% if member.number_educ == 4 %}
+    <li> {{ member.education1 }} </li>
+    <li> {{ member.education2 }} </li>
+    <li> {{ member.education3 }} </li>
+    <li> {{ member.education4 }} </li>
+    {% endif %}
+
+    {% if member.number_educ == 5 %}
+    <li> {{ member.education1 }} </li>
+    <li> {{ member.education2 }} </li>
+    <li> {{ member.education3 }} </li>
+    <li> {{ member.education4 }} </li>
+    <li> {{ member.education5 }} </li>
+    {% endif %}
+
+    {% if member.number_educ == 6 %}
+    <li> {{ member.education1 }} </li>
+    <li> {{ member.education2 }} </li>
+    <li> {{ member.education3 }} </li>
+    <li> {{ member.education4 }} </li>
+    <li> {{ member.education5 }} </li>
+    <li> {{ member.education6 }} </li>
+    {% endif %}
+
+    </ul>
+  </div>
 {% endfor %}
 
 ## Members
-
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
+{% assign even_odd = number_printed | modulo: 3 %}
 
 {% if even_odd == 0 %}
 <div class="row">
