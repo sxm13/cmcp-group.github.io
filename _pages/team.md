@@ -21,7 +21,7 @@ Jump to [members](#Members), and [alumni](#alumni).
   <h3>{{ member.name }}</h3>
   <b><i style="font-size:18px">{{ member.info }}</i></b><br>
 
-  {% if member.scholar %} <a href="{{ member.scholar }}"><i class="ai ai-google-scholar-square ai-3x"></i></a> {% endif %}
+  {% if member.scholar %} <a href="{{ member.scholar }}">Google Scholar</a> {% endif %}
 
   {% if member.number_educ == 1 %}
     <li> {{ member.education1 }} </li>
@@ -70,7 +70,7 @@ Jump to [members](#Members), and [alumni](#alumni).
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
-{% assign even_odd = number_printed | modulo: 3 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
 <div class="row">
