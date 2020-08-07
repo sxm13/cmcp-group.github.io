@@ -1,11 +1,11 @@
 - name: 정용철 (Yongchul G. Chung)
   photo: YongchulChung.png
   info: Associate professor, started Jan 2016
-  email: drygchung@gmail.com
+  email: drygchung[at]gmail.com
   number_educ: 3
-  education1: B.S., Chemical Engineering, Texas Tech University, 2007
+  education1: Postdoc @ Chemical & Biological Engineering, Northwestern University, 2013 - 2016
   education2: Ph.D., Chemical Engineering, Case Western Reserve University, 2013
-  education3: Postdoc @ Chemical & Biological Engineering, Northwestern University, 2013 - 2016
+  education3: B.S., Chemical Engineering, Texas Tech University, 2007
 
 - name: 윤성현 (Sunghyun Yun)
   photo: empty_profile.png
@@ -23,9 +23,9 @@
   photo: empty_profile.png
   info: Postdoc, April 2020 ~
   number_educ: 3
-  education3: Ph.D., Chemical Science, SCIR-NIIST, 2019
+  education1: Ph.D., Chemical Science, SCIR-NIIST, 2019
   education2: MSc., St. Aloysius College, 2011
-  education1: BSc., Chemistry, Microbiology, Zoology, St.Aloysius College, 2009
+  education3: BSc., Chemistry, Microbiology, Zoology, St.Aloysius College, 2009
 
 - name: Willem Tromp
   photo: website_pic_willem.jpg
