@@ -1,37 +1,31 @@
-- name: 정 용 철 (Yongchul G. Chung)
+- name: 정용철 (Yongchul G. Chung)
   photo: YongchulChung.png
   info: Associate professor, started Jan 2016
   email: drygchung@gmail.com
   number_educ: 3
-  education1: B.S. in Chemical Engineering, Texas Tech University, 2007
-  education2: Ph.D. in Chemical Engineering, Case Western Reserve University, 2013
+  education1: B.S., Chemical Engineering, Texas Tech University, 2007
+  education2: Ph.D., Chemical Engineering, Case Western Reserve University, 2013
   education3: Postdoc @ Chemical & Biological Engineering, Northwestern University, 2013 - 2016
 
-- name: 윤 성 현 ()
-  photo: Jacky.jpg
-  info: Postdoc, started Oct 2019
-  email: ge@Physics.LeidenUniv.nl
+- name: 윤성현 (Sunghyun Yun)
+  photo: empty_profile.png
+  info: MS/PhD student, March 2019 ~
+  number_educ: 1
+  education1: B.S., Chemical Engineering, Pusan National University, 2019
+
+- name: 차재훈 (Jaehoon Cha)
+  photo: empty_profile.png
+  info: MS/PhD student, March 2020 ~
+  number_educ: 1
+  education1: B.S., Chemical Engineering, Pusan National University, 2020
+
+- name: Anjali Bai
+  photo: empty_profile.png
+  info: Postdoc, April 2020 ~
   number_educ: 3
-  education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  education2: Ph.D. with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-  education3: B.S. East China University of Science and Technology
-
-- name: Koen M Bastiaans
-  photo: Koen.jpg
-  info: Postdoc, started Sep 2015
-  email: Bastiaans@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: PhD with Milan Allan, Leiden University
-  education2: Master Leiden University with Milan Allan
-
-- name: Damianos Chatzopoulos
-  photo: Damianos.jpg
-  info: PhD Student, started December 2017
-  email: chatzopoulos@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
+  education3: Ph.D., Chemical Science, SCIR-NIIST, 2019
+  education2: MSc., St. Aloysius College, 2011
+  education1: BSc., Chemistry, Microbiology, Zoology, St.Aloysius College, 2009
 
 - name: Willem Tromp
   photo: website_pic_willem.jpg
