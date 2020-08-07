@@ -29,6 +29,8 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+# Do you want to group your publications by year? {true/false}
+group_pub_by_year: true
 
 
 # Markdown Processing
