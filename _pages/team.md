@@ -17,9 +17,9 @@ Jump to [members](#Members), and [alumni](#alumni).
 {% for member in site.data.pi %}
 
 <div class="row">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
   <h3>{{ member.name }}</h3>
-  <h3><b>{{ member.info }}</b></h3><br>
+  <h3><b>{{ member.info }}</b></h3>
   <a href="{{ member.scholar }}">Google Scholar</a>
   <ul style="overflow: hidden">
 
