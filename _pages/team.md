@@ -66,12 +66,11 @@ Jump to [members](#Members), and [alumni](#alumni).
   </div>
 {% endfor %}
 
-
 ## Members
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
+{% assign even_odd = number_printed | modulo: 3 %}
 
 {% if even_odd == 0 %}
 <div class="row">
