@@ -79,7 +79,6 @@ permalink: /publications/
 
 </li>
 </ul>
-
 </div>
 {% endif %}
 {% endfor %}
