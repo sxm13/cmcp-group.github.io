@@ -1,6 +1,6 @@
 - title: "Beyond the BET Analysis: the Surface Area Prediction of Nanoporous Materials using a Machine Learning Method"
   authors:
-    Archit Datar, Yongchul G. Chung, Li-Chiang Lin
+    Archit Datar, Yongchul G. Chung*, Li-Chiang Lin*
   image: ml-bet-2020.gif
   journal: Journal of Physical Chemistry Letters
   journal_pagination: 11, 14, 5412 - 5417
@@ -9,7 +9,7 @@
   fund: NRF-2020R1C1C1010373
   comp: KSC-2020-CRE-0013
 
-- title: "CO2 Absorption Characteristics of Amino Group Functionalized Imidazolium-based Amino Acid Ionic Liquids"
+- title: "CO<sup>2</sup> Absorption Characteristics of Amino Group Functionalized Imidazolium-based Amino Acid Ionic Liquids"
   authors:
     Sehee Kang, Yongchul G. Chung, Jo Hong Kang, Hojun Song
   image: IL-2020.jpg
