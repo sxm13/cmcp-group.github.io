@@ -6,14 +6,8 @@
   journal_pagination: 11, 14, 5412 - 5417
   year: 2020
   doi: 10.1021/acs.jpclett.0c01518
-<<<<<<< HEAD
   funding1: true
-<<<<<<< HEAD
   comp1: true
-=======
->>>>>>> parent of d924b2e... misc
-=======
->>>>>>> parent of 2c156c5... fix
 
 - title: "CO2 Absorption Characteristics of Amino Group Functionalized Imidazolium-based Amino Acid Ionic Liquids"
   authors:
@@ -23,14 +17,8 @@
   journal_pagination: 297, 111825
   year: 2020
   doi: 10.1016/j.molliq.2019.111825
-<<<<<<< HEAD
-<<<<<<< HEAD
   funding0: true
-=======
->>>>>>> parent of d924b2e... misc
-=======
   funding1: false
->>>>>>> parent of 2c156c5... fix
 
 - title: "Advances, Updates, and Analytics for the Computation-Ready, Experimental Metal-Organic Framework Database: CoRE MOF 2019"
   authors:
