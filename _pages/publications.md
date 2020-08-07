@@ -9,54 +9,125 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
+[Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ)
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
-
-{% assign number_printed = 0 %}
+{% assign yeartest = true %}
 {% for publi in site.data.publist %}
+  {% if publi.year %}{% else %}
+   {% assign yeartest = false %}
+  {% endif %}
+{% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
-
-{% if even_odd == 0 %}
-<div class="row">
+{% if yeartest == false %}
+## Coming Soon
 {% endif %}
 
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
- </div>
-</div>
+{% for publi in site.data.publist %}
+{% if publi.year %}{% else %}
 
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
+{% assign bibtest = false %}
+{% if publi.url %}
+{% assign bibfile = "/papers/" | append:  publi.url  | append: ".txt" %}
+{% for file in site.static_files %}
+  {% if file.path contains bibfile %}
+   {% assign bibtest = true %}
+  {% endif %}
+{% endfor %}
 {% endif %}
 
+<div class="well-sm">
+<ul class="flex-container">
+<li class="flex-item1">
+  {% if publi.image %}
+   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="90%" style="float: left" />
+  {% endif %}
+</li>
+<li class="flex-item2">
+  <strong> {{ publi.title }}</strong><br/>
+  <i>{{ publi.authors }} </i><br/>
+  {{ publi.display }}<br/>
+  {% if publi.doi %}<a href="http://dx.doi.org/{{ publi.doi }}" target="blank"><button class="btn-doi">DOI</button></a> {% endif %}
+  {% if publi.abstract %} <a data-toggle="collapse" href="#{{publi.url}}"  class="btn-abstract" style="text-decoration:none; color:#ebebeb; hover:#ebebeb;" role="button" aria-expanded="false" aria-controls="{{publi.url}}">ABSTRACT</a> {% endif %}
+
+{% if publi.abstract %}
+<div class="collapse" id="{{publi.url}}"><div class="well-abstract">
+ {{publi.abstract}}
+</div></div>
+{% endif %}
+
+{% if bibtest == true %}
+<div class="collapse" id="{{publi.url}}2"><div class="well-bib">
+ <iframe src='{{site.url}}{{site.baseurl}}/papers/{{publi.url}}.txt' scrolling='yes' width="100%" height="210" frameborder='0'></iframe>
+</div></div>
+{% endif %}
+
+</li>
+</ul>
+</div>
 {% endif %}
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
+{% if site.group_pub_by_year == true %}{% else %}
+## Journal Papers and Proceedings
 {% endif %}
 
-<p> &nbsp; </p>
+{% for myyear in site.data.years %}
 
+{% assign yeartest = false %}
+{% for publi in site.data.publist %}
+  {% if publi.year == myyear.year %}
+   {% assign yeartest = true %}
+  {% endif %}
+{% endfor %}
 
-## Full List
+{% if site.group_pub_by_year == true %}
+{% if yeartest == true %}
+## {{ myyear.year }}
+{% endif %}
+{% endif %}
 
 {% for publi in site.data.publist %}
+{% if publi.year == myyear.year %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
+{% assign bibtest = false %}
+{% if publi.url %}
+{% assign bibfile = "/papers/" | append:  publi.url  | append: ".txt" %}
+{% for file in site.static_files %}
+  {% if file.path contains bibfile %}
+   {% assign bibtest = true %}
+  {% endif %}
 {% endfor %}
+{% endif %}
+
+<div class="well-sm">
+<ul class="flex-container">
+<li class="flex-item1">
+  {% if publi.image %}
+   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="90%" style="float: left" />
+  {% endif %}
+</li>
+<li class="flex-item2">
+  <b>{{ publi.title }}</b><br/>
+  <i>{{ publi.authors }} </i><br/>
+  {{ publi.display }} {% if publi.year %}({{publi.year}}){% endif %}<br/>
+  {% if publi.url %}<a href="{{ site.url }}{{ site.baseurl }}/papers/{{ publi.url }}.pdf" target="blank"><button class="btn-pdf">PDF</button></a>{% endif %}
+  {% if publi.doi %}<a href="http://dx.doi.org/{{ publi.doi }}" target="blank"><button class="btn-doi">DOI</button></a> {% endif %}
+  {% if publi.arxiv %}<a href="https://arxiv.org/abs/{{ publi.arxiv }}" target="blank"><button class="btn-arxiv">ARXIV</button></a> {% endif %}
+  {% if bibtest == true %} <a data-toggle="collapse" href="#{{publi.url}}2" class="btn-bib" style="text-decoration:none; color:#ebebeb; hover:#ebebeb;" role="button" aria-expanded="false" aria-controls="{{publi.url}}2">BIB</a> {% endif %}
+  {% if publi.abstract %} <a data-toggle="collapse" href="#{{publi.url}}" class="btn-abstract" style="text-decoration:none; color:#ebebeb; hover:#ebebeb;" role="button" aria-expanded="false" aria-controls="{{publi.url}}">ABSTRACT</a>{% endif %}
+
+{% if publi.abstract %}
+<br/>
+<div class="collapse" id="{{publi.url}}"><div class="well-abstract">
+ {{publi.abstract}}
+</div></div>
+{% endif %}
+
+{% if bibtest == true %}
+<div class="collapse" id="{{publi.url}}2"><div class="well-bib">
+<iframe src='{{site.url}}{{site.baseurl}}/papers/{{publi.url}}.txt' scrolling='yes' width="100%" height="210" frameborder='0'></iframe>
+</div></div>
+{% endif %}
+
+</li>
