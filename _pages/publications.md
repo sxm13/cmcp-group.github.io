@@ -93,6 +93,7 @@ permalink: /publications/
    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="90%" style="float: left" />
   {% endif %}
 </li>
+
 <li class="flex-item2">
   <b>{{ publi.title }}</b><br/>
   <i>{{ publi.authors }} </i><br/>
