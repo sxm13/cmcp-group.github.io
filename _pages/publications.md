@@ -67,6 +67,7 @@ permalink: /publications/
   <b>{{ publi.journal }}</b>, {{ publi.journal_pagination }} ({{publi.year}}) <br/>
   {% if publi.doi %}<a href="http://dx.doi.org/{{ publi.doi }}" target="blank"><button class="btn-doi">DOI</button></a> {% endif %}
 <<<<<<< HEAD
+<<<<<<< HEAD
   {% if publi.nrfone %}<button class="btn-funding0">NRF-2016R1D1A1B03934484</button><% endif %>
   {% if publi.nrftwo %}<button class="btn-funding1">NRF-2020R1C1C1010373</button><% endif %>
   {% if publi.kscone %}<button class="btn-comp1">KSC-2020-CRE-0013</button><% endif %>
@@ -74,6 +75,12 @@ permalink: /publications/
 =======
   <button class="btn-funding1">NRF-2020R1C1C1010373</button>
 >>>>>>> parent of d924b2e... misc
+=======
+  {% if publi.funding0 %}<button class="btn-funding1">NRF-2020R1C1C1010373</button><% endif %>
+  {% if publi.funding1 %}<button class="btn-funding1">NRF-2020R1C1C1010373</button><% endif %>
+  {% if publi.comp1 %}<button class="btn-comp1">KSC-2020-CRE-0013</button><% endif %>
+  {% if publi.comp2 %}<button class="btn-comp2">KSC-2019-CRE-0203</button><% endif %>
+>>>>>>> parent of c7b6ec6... Update publications.md
 
 </li>
 </ul>
