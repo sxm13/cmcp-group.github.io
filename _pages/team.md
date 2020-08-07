@@ -20,14 +20,15 @@ Jump to [members](#Members), and [alumni](#alumni).
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
   <h3>{{ member.name }}</h3>
   <h3><b>{{ member.info }}</b></h3><br>
-
   <a href="{{ member.scholar }}">Google Scholar</a>
+  <ul style="overflow: hidden">
 
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
 
+  </ul>
 </div>
 {% endfor %}
 
