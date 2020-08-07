@@ -6,8 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-**계산소재설계 및 화공기술 연구실 웹사이트를 방문해주셔서 감사합니다!**
-
 우리 연구실은 다차원 전산모사기법을 바탕으로 차세대 소재들을 활용한 에너지 저장, 가스 정제/분리, 촉매 전환 반응등 화공기술을 기반으로한 기초 및 응용 연구들을 수행하고 있습니다.
 
 We leverages multi-scale modeling methods to evalute the performance of next-generation materials for gas purification/separation, energy storage, and catalysis.
