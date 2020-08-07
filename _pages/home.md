@@ -58,14 +58,13 @@ permalink: /
 
 We leverages multi-scale modeling methods to evalute the performance of next-generation materials for gas purification/separation, energy storage, and catalysis. (see [Research](research)).
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
+We are grateful for funding from the NRF of Korea, and from KITECH.
+We are also grateful for the computational resources provided by KISTI.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NRF-korea.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KITECH.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KORE-1.png" style="width: 120px">
 </figure>
