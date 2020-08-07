@@ -68,7 +68,7 @@ permalink: /publications/
   {% if publi.doi %}<a href="http://dx.doi.org/{{ publi.doi }}" target="blank"><button class="btn-doi">DOI</button></a> {% endif %}
   {% if publi.funding1 %}<button class="btn-funding1">NRF-2020R1C1C1010373</button><% endif %>
   {% if publi.comp1 %}<button class="btn-comp1">KSC-2020-CRE-0013</button><% endif %>
-  {% if publi.comp2 %}<button class="btn-comp1">KSC-2019-CRE-0203</button><% endif %>
+  {% if publi.comp2 %}<button class="btn-comp2">KSC-2019-CRE-0203</button><% endif %>
 
 </li>
 </ul>
