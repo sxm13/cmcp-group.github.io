@@ -46,7 +46,24 @@ permalink: /publications/
   <strong> {{ publi.title }}</strong><br/>
   <i>{{ publi.authors }} </i><br/>
   {{ publi.display }}<br/>
+  {% if publi.url %}<a href="{{ site.url }}{{ site.baseurl }}/papers/{{ publi.url }}.pdf" target="blank"><button class="btn-pdf">PDF</button></a>{% endif %}
   {% if publi.doi %}<a href="http://dx.doi.org/{{ publi.doi }}" target="blank"><button class="btn-doi">DOI</button></a> {% endif %}
+  {% if publi.arxiv %}<a href="https://arxiv.org/abs/{{ publi.arxiv }}" target="blank"><button class="btn-arxiv">ARXIV</button></a> {% endif %}
+  {% if bibtest == true %} <a data-toggle="collapse" href="#{{publi.url}}2"  class="btn-bib" style="text-decoration:none; color:#ebebeb; hover:#ebebeb;" role="button" aria-expanded="false" aria-controls="{{publi.url}}2">BIB</a> {% endif %}
+  {% if publi.abstract %} <a data-toggle="collapse" href="#{{publi.url}}"  class="btn-abstract" style="text-decoration:none; color:#ebebeb; hover:#ebebeb;" role="button" aria-expanded="false" aria-controls="{{publi.url}}">ABSTRACT</a> {% endif %}
+
+{% if publi.abstract %}
+<div class="collapse" id="{{publi.url}}"><div class="well-abstract">
+ {{publi.abstract}}
+</div></div>
+{% endif %}
+
+{% if bibtest == true %}
+<div class="collapse" id="{{publi.url}}2"><div class="well-bib">
+ <iframe src='{{site.url}}{{site.baseurl}}/papers/{{publi.url}}.txt' scrolling='yes' width="100%" height="210" frameborder='0'></iframe>
+</div></div>
+{% endif %}
+
 </li>
 </ul>
 </div>
@@ -93,11 +110,34 @@ permalink: /publications/
    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="90%" style="float: left" />
   {% endif %}
 </li>
-
 <li class="flex-item2">
   <b>{{ publi.title }}</b><br/>
   <i>{{ publi.authors }} </i><br/>
   {{ publi.display }} {% if publi.year %}({{publi.year}}){% endif %}<br/>
+  {% if publi.url %}<a href="{{ site.url }}{{ site.baseurl }}/papers/{{ publi.url }}.pdf" target="blank"><button class="btn-pdf">PDF</button></a>{% endif %}
   {% if publi.doi %}<a href="http://dx.doi.org/{{ publi.doi }}" target="blank"><button class="btn-doi">DOI</button></a> {% endif %}
+  {% if publi.arxiv %}<a href="https://arxiv.org/abs/{{ publi.arxiv }}" target="blank"><button class="btn-arxiv">ARXIV</button></a> {% endif %}
+  {% if bibtest == true %} <a data-toggle="collapse" href="#{{publi.url}}2" class="btn-bib" style="text-decoration:none; color:#ebebeb; hover:#ebebeb;" role="button" aria-expanded="false" aria-controls="{{publi.url}}2">BIB</a> {% endif %}
+  {% if publi.abstract %} <a data-toggle="collapse" href="#{{publi.url}}" class="btn-abstract" style="text-decoration:none; color:#ebebeb; hover:#ebebeb;" role="button" aria-expanded="false" aria-controls="{{publi.url}}">ABSTRACT</a>{% endif %}
+
+{% if publi.abstract %}
+<br/>
+<div class="collapse" id="{{publi.url}}"><div class="well-abstract">
+ {{publi.abstract}}
+</div></div>
+{% endif %}
+
+{% if bibtest == true %}
+<div class="collapse" id="{{publi.url}}2"><div class="well-bib">
+<iframe src='{{site.url}}{{site.baseurl}}/papers/{{publi.url}}.txt' scrolling='yes' width="100%" height="210" frameborder='0'></iframe>
+</div></div>
+{% endif %}
 
 </li>
+</ul>
+
+</div>
+{% endif %}
+{% endfor %}
+
+{% endfor %}
