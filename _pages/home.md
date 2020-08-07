@@ -59,10 +59,7 @@ permalink: /
 
 We leverages multi-scale modeling methods to evalute the performance of next-generation materials for gas purification/separation, energy storage, and catalysis. (see [Research](research)).
 
-**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-We are grateful for funding from the NRF of Korea, and from KITECH, and for the computational resources provided by KISTI.
-
+우리 연구실은 한국연구재단, 한국생산기술연구소 동남본부와 울산본부의 과제를 수행하고 있으며, 한국과학기술정보연구원으로 부터 컴퓨터 자원을 지원 받고 있습니다.
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NRF-korea.png" style="width: 200px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KITECH.jpg" style="width: 200px">
