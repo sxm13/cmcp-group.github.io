@@ -21,7 +21,7 @@ Jump to [members](#Members), and [alumni](#alumni).
   <h3>{{ member.name }}</h3>
   <h3><b>{{ member.info }}</b></h3><br>
 
-  <a href="{{ member.scholar }}">Google Scholar</a> {% endif %}
+  <a href="{{ member.scholar }}">Google Scholar</a>
 
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
@@ -32,6 +32,7 @@ Jump to [members](#Members), and [alumni](#alumni).
 {% endfor %}
 
 ## Members
+
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
