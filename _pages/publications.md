@@ -26,12 +26,7 @@ permalink: /publications/
   {% if publi.year %}{% else %}
   <div class="well-sm">
   <ul class="flex-container">
-  <li class="flex-item1">
-  {% if publi.image %}
-   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="90%" style="float: left" />
-  {% endif %}
-  </li>
-  <li class="flex-item2">
+  <li class="flex-item">
   <strong> {{ publi.title }}</strong><br/>
   <i>{{ publi.authors }} </i><br/>
   {{ publi.display }}<br/>
@@ -66,7 +61,7 @@ permalink: /publications/
 
 <div class="well-sm">
 <ul class="flex-container">
-<li class="flex-item2">
+<li class="flex-item">
   <b>{{ publi.title }}</b><br/>
   {{ publi.authors }}<br/>
   <b>{{ publi.journal }}</b>, {{ publi.journal_pagination }} ({{publi.year}}) <br/>
