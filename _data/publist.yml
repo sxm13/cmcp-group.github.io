@@ -67,12 +67,12 @@
   year: 2019
   direct_link: https://www.cheric.org/PDF/NICE/NI37/NI37-3-0318.pdf
 
-- title: "Synergistic Effect of Metal-Organic Framework-Derived Boron and Nitrogen Heteroatom-doped Three-Dimensional Porous Carbons for Precious-Metal-Free Catalytic Reduction of Nitroarenes"
+- title: "Development of a general evaluation metric for rapid screening of adsorbent materials for post-combustion CO<sub>2</sub> capture"
   authors:
-    Chi Van Nguyen, Seulchan Lee, Yongchul G. Chung<sup>*</sup>, Wei-Hung Chiang<sup>*</sup>, Kevin C.-W. Wu<sup>*</sup>
-  journal: "Applied Catalysis B: Environmental"
+    Karson T. Leperi<sup>†</sup>, Yongchul G. Chung<sup>†</sup>, Fengqi You<sup>*</sup>, Randall Q. Snurr<sup>*</sup>
+  journal: "ACS Sustainable Chemistry & Engineering"
   journal_pagination: 257, 117888
   year: 2019
-  doi: 10.1021/acs.jpcc.9b02116
+  doi: 10.1021/acssuschemeng.9b01418
   fund: NRF-2016R1D1A1B03934484
-  comp: KSC-2018-CHA-0075
+  comp: KSC-2016-S1-002
