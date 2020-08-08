@@ -14,6 +14,7 @@ Useful tools, references related to what we do in our lab.
 - Classical Mechanics Background
 
 - DFT Background
+
 [DFT-book by John Kitchin](http://kitchingroup.cheme.cmu.edu/dft-book/dft.html)
 
 - Programming
