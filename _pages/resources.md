@@ -7,14 +7,15 @@ permalink: /resources/
 
 Useful tools, references related to what we do in our lab.
 
-- Classical Mechanics Software & Theory
-
-- Database
-
-- Machine Learning
-
-- Quantum Mechanics Software & theory
+- Databases and Simulation Softwares
 
 - Workflow Softwares
 
+- Classical Mechanics Background
+
+- DFT Background
+[DFT-book by John Kitchin](http://kitchingroup.cheme.cmu.edu/dft-book/dft.html)
+
 - Programming
+
+- Machine Learning
