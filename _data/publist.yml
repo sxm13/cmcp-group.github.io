@@ -21,7 +21,7 @@
 
 - title: "Advances, Updates, and Analytics for the Computation-Ready, Experimental Metal-Organic Framework Database: CoRE MOF 2019"
   authors:
-    Yongchul G. Chung<sup>#,</sup>*, Emmanuel Haldoupis<sup>#</sup>, Benjamin J. Bucior<sup>#</sup>, Maciej Haranczyk, Seulchan Lee, Hongda Zhang, Konstantinos D. Vogiatzis, M. Milisavljevic, Sanliang Ling, Jeffrey S. Camp, Ben Slater, J. Ilja Siepmann*, David S. Sholl*, Randall Q. Snurr*
+    Yongchul G. Chung<sup>†,</sup>*, Emmanuel Haldoupis<sup>†</sup>, Benjamin J. Bucior<sup>†</sup>, Maciej Haranczyk, Seulchan Lee, Hongda Zhang, Konstantinos D. Vogiatzis, M. Milisavljevic, Sanliang Ling, Jeffrey S. Camp, Ben Slater, J. Ilja Siepmann*, David S. Sholl*, Randall Q. Snurr*
   image: je9b00835_0008.gif
   journal: Journal of Chemical & Engineering Data
   journal_pagination: 61, 12, 5985 - 5998
@@ -29,3 +29,50 @@
   doi: 10.1021/acs.jced.9b00835
   fund: NRF-2016R1D1A1B03934484
   comp: KSC-2019-CRE-0203
+
+- title: "The origin of p-xylene selectivity in a DABCO pillar-layered metal-organic framework: a combined experimental and computational investigation"
+  authors:
+    Seung-Ik Kim<sup>†</sup>, Seulchan Lee<sup>†</sup>, Yongchul G. Chung<sup>*</sup>, Youn-Sang Bae<sup>*</sup>
+  journal: ACS Applied Materials Interface
+  journal_pagination: 11, 34, 31227 - 31236
+  year: 2019
+  doi: 10.1021/acsami.9b11343
+  fund: NRF-2016R1D1A1B03934484
+  comp: KSC-2018-CHA-0075
+
+- title: "The role of molecular modeling & simulation in the discovery and deployment of metal-organic frameworks for gas storage and separation"
+  authors:
+    Arni Sturluson, Melanie Huynh, Alec R. Kaija, Caleb Laird, Sunghyun Yoon, Feier Hou, Zhenxing Feng, Christopher E. Wilmer,<sup>*</sup> Yamil J. Colon,<sup>*</sup> Yongchul G. Chung,<sup>*</sup> Daniel W. Siderius,<sup>*</sup>, Cory M. Simon<sup>*</sup>
+  journal: Molecular Simulation
+  journal_pagination: 45, 1082-1121
+  year: 2019
+  doi: 10.1080/08927022.2019.1648809
+  fund: NRF-2016R1D1A1B03934484
+
+- title: "Surface area determination of porous materials using the Brunauer-Emmett-Teller (BET) method: limitations and improvements"
+  authors:
+    Priya Sinha, Archit Datar, Chungsik Jeong, X. Deng, Yongchul G. Chung<sup>*</sup>, Li-Chiang Lin<sup>*</sup>
+  journal: Journal of Physical Chemistry C
+  journal_pagination: 123, 33, 20195-20209
+  year: 2019
+  doi: 10.1021/acs.jpcc.9b02116
+  fund: NRF-2016R1D1A1B03934484
+  comp: KSC-2018-CHA-0075
+
+- title: "금속유기골격체 (Metal-Organic Frameworks, MOFs)의 대량 전산 스크리닝에 대한 최신 동향"
+  authors:
+    정용철
+  journal: "News & Information for Chemical Engineers"
+  journal_pagination: 37, 3, 318 - 327
+  year: 2019
+  direct_link: https://www.cheric.org/PDF/NICE/NI37/NI37-3-0318.pdf
+
+- title: "Synergistic Effect of Metal-Organic Framework-Derived Boron and Nitrogen Heteroatom-doped Three-Dimensional Porous Carbons for Precious-Metal-Free Catalytic Reduction of Nitroarenes"
+  authors:
+    Chi Van Nguyen, Seulchan Lee, Yongchul G. Chung<sup>*</sup>, Wei-Hung Chiang<sup>*</sup>, Kevin C.-W. Wu<sup>*</sup>
+  journal: "Applied Catalysis B: Environmental"
+  journal_pagination: 257, 117888
+  year: 2019
+  doi: 10.1021/acs.jpcc.9b02116
+  fund: NRF-2016R1D1A1B03934484
+  comp: KSC-2018-CHA-0075
