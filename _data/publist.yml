@@ -71,8 +71,155 @@
   authors:
     Karson T. Leperi<sup>†</sup>, Yongchul G. Chung<sup>†</sup>, Fengqi You<sup>*</sup>, Randall Q. Snurr<sup>*</sup>
   journal: "ACS Sustainable Chemistry & Engineering"
-  journal_pagination: 257, 117888
+  journal_pagination: 7, 13, 11529 - 11539
   year: 2019
   doi: 10.1021/acssuschemeng.9b01418
   fund: NRF-2016R1D1A1B03934484
   comp: KSC-2016-S1-002
+
+- title: "Elucidation of Flexible Metal-Organic Frameworks: Research Progresses and Recent Developments"
+  authors:
+    Jae Hwa Lee, Sungeun Jeoung, Yongchul G. Chung<sup>*</sup>, Hoi Ri Moon<sup>*</sup>
+  journal: "Coordination Chemistry Reviews"
+  journal_pagination: 389, 161 - 188
+  year: 2019
+  doi: 10.1016/j.ccr.2019.03.008
+  fund: NRF-2016R1D1A1B03934484
+
+- title: "Two-dimensional Zn-SDC metal-organic frameworks for cyclic carbonate synthesis from CO<sub>2</sub> and epoxides"
+  authors:
+    Gak-Gyu. Choi, Jintu F. Kurisingal, Yongchul G. Chung<sup>*</sup>, Dae Won Park<sup>*</sup>
+  journal: "Korean Journal of Chemical Engineering"
+  journal_pagination: 35, 6, 1373 - 1379
+  year: 2018
+  doi: 10.1007/s11814-018-0023-y
+  fund: 부산대학교 기본연구
+
+- title: "Cycloaddition of CO<sub>2</sub> with epoxides by using an amino-acid-based Cu(II)-tryptophan MOF catalyst"
+  authors:
+    Gyeong Seon Jeong, Amal C. Kathalikkattil, Robin Babu, Yongchul G. Chung, Dae Won Park<sup>*</sup>
+  journal: "Chinese Journal of Catalysis"
+  journal_pagination: 39, 1, 63 - 70
+  year: 2018
+  doi: 10.1016/S1872-2067(17)62916-4
+  fund: NRF-2016R1D1A1B03934484
+
+- title: "High-Throughput Computational Screening of Multivariate Metal–Organic Frameworks (MTV-MOFs) for CO<sub>2</sub> Capture</b>"
+  authors:
+    Song Li, Yongchul G. Chung, Cory M. Simon, Randall Q. Snurr<sup>*</sup>
+  journal: "Journal of Physical Chemistry Letters"
+  journal_pagination: 8, 6135 - 6141
+  year: 2018
+  doi: 10.1021/acs.jpclett.7b02700
+  fund: NRF-2016R1D1A1B03934484
+
+- title: "The Role of Partial Atomic Charge Assignment Methods on the Computational Screening of Metal-Organic Frameworks for CO<sub>2</sub> Capture under Humid Conditions"
+  authors:
+    Wei Li, Zizhen Rao, Yongchul G. Chung, Song Li<sup>*</sup>
+  journal: "ChemistrySelect"
+  journal_pagination: 2, 29, 9458 - 9465
+  year: 2017
+  doi: 10.1002/slct.201701934
+  fund: NRF-2016R1D1A1B03934484
+  comp: KISTI-pe0673
+
+- title: "Computational Screening of Nanoporous Materials for Hexane and Heptane Isomer Separation"
+  authors:
+    Yongchul G. Chung<sup>†</sup>, Peng Bai<sup>†</sup>, Maciej Haranczyk, Karson T. Leperi, Peng Li, Hongda Zhang, Fengqi You, Omar K. Farha, Joseph T. Hupp, J. Ilja Siepmann<sup>*</sup>, Randall Q. Snurr<sup>*</sup>
+  journal: "Chemistry of Materials"
+  journal_pagination: 29, 15, 6315 - 6328
+  year: 2017
+  doi: 10.1021/acs.chemmater.7b01565
+  fund: NRF-2016R1D1A1B03934484
+
+- title: "Catalytic performance of zeolitic imidazolate framework ZIF-95 for the solventless synthesis of cyclic carbonates from CO<sub>2</sub> and epoxides"
+  authors:
+    Kyung Mi Bhin, Jose Tharun, K. Roshan Roshan, Dong-Wook Kim, Yongchul G. Chung, Dae Won Park<sup>*</sup>
+  journal: "Journal of CO<sub>2</sub> Utilization"
+  journal_pagination: 17, 112 - 118
+  year: 2017
+  doi: 10.1016/j.jcou.2016.12.001
+  fund: NRF-2016R1D1A1B03934484
+
+- title: "Large-Scale Refinement of Metal Organic Framework Structures Using DFT"
+  authors:
+    Dalar Nazarian, Jeffrey S. Camp, Yongchul G. Chung, Randall Q. Snurr, David S. Sholl<sup>*</sup>
+  journal: "Chemistry of Materials"
+  journal_pagination: 29, 6, 2521 - 2528
+  year: 2017
+  doi: 10.1021/acs.chemmater.6b04226
+  fund: PNU New Faculty Grant
+
+- title: "In silico discovery of metal-organic frameworks for CO<sub>2</sub> capture using a genetic algorithm"
+  authors:
+    Yongchul G. Chung<sup>†</sup>, Diego A. Gomez-Gualdron<sup>†</sup>, Peng Li, Karson T. Leperi, Pravas Deria, Hongda Zhang, Nicholas A. Vermeulen, J. Fraser Stoddart, Fengqi You, Joseph T. Hupp, Omar K. Hupp, Randall Q. Snurr<sup>*</sup>
+  journal: "Science Advances"
+  journal_pagination: 2, 10, e1600909
+  year: 2016
+  doi: 10.1126/sciadv.1600909
+  fund: NRF-2016R1D1A1B03934484
+
+- title: "High-Throughput Screening of Metal-Organic Frameworks for CO<sub>2</sub> Capture in the Presence of Water"
+  authors:
+    Song Li, Yongchul G. Chung, R.Q. Snurr<sup>*</sup>
+  journal: "Langmuir"
+  journal_pagination:  32, 40, 10368 - 10376
+  year: 2016
+  doi: 10.1021/acs.langmuir.6b02803
+
+- title: "Water stabilization of Zr<sub>6</sub>-based metal-organic frameworks via solvent-assisted ligand incorporation"
+  authors:
+    Pravas Deria, Yongchul G. Chung, Randall Q. Snurr, Joseph T. Hupp, Omar K. Farha<sup>*</sup>
+  journal: "Chemical Science"
+  journal_pagination: 6, 5172 - 5176
+  year: 2015
+  doi: 10.1039/C5SC01784J
+
+- title: "The materials genome in action: identifying the performance limits for methane storage"
+  authors:
+    Cory M. Simon, Jihan Kim, Diego A. Gomez-Gualdron, Jeffrey S. Camp, Yongchul G. Chung, Richard L. Martin, Rocio Mercado, Michael W. Deem, Dan Gunter, Maciej Haranczyk, David S. Sholl, Randall Q. Snurr<sup>*</sup>, Berend Smit<sup>*</sup>
+  journal: "Energy & Environmental Science"
+  journal_pagination: 8, 1190 - 1199
+  year: 2015
+  doi: 10.1016/j.ccr.2019.03.008
+  fund: NRF-2016R1D1A1B03934484
+
+- title: "Computation-ready, experimental metal-organic frameworks: a tool to enable high-throughput screening of nanoporous crystals"
+  authors:
+    Yongchul G. Chung, Jeffrey Camp, Maciej Haranczyk, Benjamin J. Sikora, Wojciech Bury, Vaiva Krungleviciute, Taner Yildirim, Omar K. Farha, David S. Sholl<sup>*</sup>, Randall Q. Snurr<sup>*</sup>
+  journal: "Chemistry of Materials"
+  journal_pagination: 26, 21, 6185 - 6192
+  year: 2014
+  doi: 10.1021/cm502594j
+
+- title: "Atomic mobility in strained glassy polymers: The role of fold catastrophes on the potential energy surface"
+  authors:
+    Yongchul G. Chung, Daniel J. Lacks<sup>*</sup>
+  journal: "Journal of Polymer Science: Polymer Physics Part B"
+  journal_pagination: 50, 1733 - 1739
+  year: 2012
+  doi: 10.1002/polb.23166
+
+- title: "Atomic Mobility in a Polymer Glass after Shear and Thermal Cycles"
+  authors:
+    Yongchul G. Chung, Daniel J. Lacks<sup>*</sup>
+  journal: "Journal of Physical Chemistry B"
+  journal_pagination: 116, 14201 - 14205
+  year: 2012
+  doi: 10.1021/jp309772f
+
+- title: "How deformation enhances mobility in a polymer glass"
+  authors:
+    Yongchul G. Chung, Daniel J. Lacks<sup>*</sup>
+  journal: "Macromolecules"
+  journal_pagination: 45, 4416 - 4421
+  year: 2012
+  doi: 10.1021/ma300431x
+
+- title: "Sheared polymer glass and the question of mechanical rejuvenation"
+  authors:
+    Yongchul G. Chung, Daniel J. Lacks<sup>*</sup>
+  journal: "Journal of Chemical Physics"
+  journal_pagination: 136, 124907
+  year: 2012
+  doi: 10.1063/1.3698473
