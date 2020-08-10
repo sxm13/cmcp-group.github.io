@@ -15,7 +15,7 @@ Useful tools, references related to what we do in our lab.
 
 - DFT Background
 
-[DFT-book by John Kitchin](http://kitchingroup.cheme.cmu.edu/dft-book/dft.html)
+* [DFT-book by John Kitchin](http://kitchingroup.cheme.cmu.edu/dft-book/dft.html)
 
 - Programming
 
