@@ -38,7 +38,7 @@ permalink: /resources/
 - [Pymatgen](https://pymatgen.org/)
 
 ### Softwares for Adsorption Science
-- [SESAMI, a script to estimate surface areas of materials from their isotherms](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b02116) - automatically computes and provides surface area of materials given input isotherm data
+- [SESAMI, a script to estimate surface areas of materials from their isotherms](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b02116) - computes BET surface area of materials given input isotherm data
 - [pyGAPS](https://github.com/pauliacomi/pygaps)
 - [PorousMaterials.jl](https://github.com/SimonEnsemble/PorousMaterials.jl)
 - [pyIAST](https://github.com/CorySimon/pyIAST)
