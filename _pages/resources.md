@@ -23,7 +23,7 @@ permalink: /resources/
 - [SMACT](https://github.com/WMD-group/SMACT)
 - [Materials Cloud](https://www.materialscloud.org/explore/menu)
 
-### Atomistic Simulation Softwares
+### General Atomistic Simulation Softwares
 - [RASPA](https://github.com/iRASPA/RASPA2)
 - [LAMMPS](https://lammps.sandia.gov/)
 - [CP2K](https://www.cp2k.org/)
@@ -38,23 +38,23 @@ permalink: /resources/
 - [Pymatgen](https://pymatgen.org/)
 
 ### Softwares for Adsorption Science
-- [SESAMI, a script to estimate surface areas of materials from their isotherms](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b02116)
--- computes BET surface area of materials given input isotherm data
+- [SESAMI](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b02116)(a script to estimate surface areas of materials from their isotherms)
+- [SESAMI-ML](https://pubs.acs.org/doi/10.1021/acs.jpclett.0c01518)(SESAMI with machine learning implementation to more accurately estimate the monolayer coverage)
 - [pyGAPS](https://github.com/pauliacomi/pygaps)
-- [PorousMaterials.jl](https://github.com/SimonEnsemble/PorousMaterials.jl)
-- [pyIAST](https://github.com/CorySimon/pyIAST)
-- [IAST++](https://sangwon91.github.io/IASTpp/)
-- [MOFid](https://snurr-group.github.io/web-mofid/)
-- [MOF Adsorbate Initializer](https://github.com/snurr-group/mof-adsorbate-initializer)
+- [PorousMaterials.jl](https://github.com/SimonEnsemble/PorousMaterials.jl)(Julia-based MC software for porous materials)
+- [pyIAST](https://github.com/CorySimon/pyIAST)(python-based IAST program)
+- [IAST++](https://sangwon91.github.io/IASTpp/)(user-friendly IAST program)
+- [MOFid](https://snurr-group.github.io/web-mofid/)(script to identify MOF)
+- [MOF Adsorbate Initializer](https://github.com/snurr-group/mof-adsorbate-initializer)(adsorbate initializer for quantum calculations)
 
 ### Partial Atomic Charges and Force fields
-- [EQeq](https://github.com/numat/EQeq)
-- [DDEC](https://sourceforge.net/projects/ddec/)
-- [MPNN Charges](https://github.com/SimonEnsemble/mpn_charges)
-- [REPEAT](http://titan.chem.uottawa.ca/?page_id=975)
+- [EQeq](https://github.com/numat/EQeq)(Extended Charge Equilibrium method for partial atomic charges)
+- [DDEC](https://sourceforge.net/projects/ddec/)(DFT-derived partial atomic charges)
+- [REPEAT](http://titan.chem.uottawa.ca/?page_id=975)(DFT-derived partial atomic charges)
+- [MPNN Charges](https://github.com/SimonEnsemble/mpn_charges)(machine learning-derived partial atomic charges)
 
-### Machine Learning for Materials (taken from Walsh group website)
-- [crystals AI](https://crystals.ai/)
+### Machine Learning for Materials
+- [Crystals.ai](https://crystals.ai/)
 
 ### Crystal Structure Predictions
 - [AIRSS](https://www.mtg.msm.cam.ac.uk/Codes/AIRSS)
