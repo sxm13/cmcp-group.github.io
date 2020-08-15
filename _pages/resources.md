@@ -55,7 +55,8 @@ permalink: /resources/
 - [pyIAST](https://github.com/CorySimon/pyIAST) (python-based IAST program)
 - [IAST++](https://sangwon91.github.io/IASTpp/) (user-friendly IAST program)
 - [MOFid](https://snurr-group.github.io/web-mofid/) (script to identify MOF)
-- [MOF Adsorbate Initializer](https://github.com/snurr-group/mof-adsorbate-initializer) (adsorbate initializer for quantum calculations)
+- [MOF Adsorbate Initializer](https://github.com/arosen93/mof-adsorbate-initializer) (adsorbate initializer for quantum calculations)
+- [pyMOFscreen](https://github.com/arosen93/mof_screen) (script for HT QM screening of MOFs)
 - [NIST Data Repository for Adsorption Science and Technology](https://adsorption.nist.gov/index.php#home)
 - [SynCoFinder](https://www.materialscloud.org/work/tools/sycofinder) (synthesis condition finder using ML)
 
