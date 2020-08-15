@@ -38,20 +38,20 @@ permalink: /resources/
 - [Pymatgen](https://pymatgen.org/)
 
 ### Softwares for Adsorption Science
-- [SESAMI](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b02116)(a script to estimate surface areas of materials from their isotherms)
-- [SESAMI-ML](https://pubs.acs.org/doi/10.1021/acs.jpclett.0c01518)(SESAMI with machine learning implementation to more accurately estimate the monolayer coverage)
+- [SESAMI](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b02116) (a script to estimate surface areas of materials from their isotherms)
+- [SESAMI-ML](https://pubs.acs.org/doi/10.1021/acs.jpclett.0c01518) (SESAMI with machine learning implementation to more accurately estimate the monolayer coverage)
 - [pyGAPS](https://github.com/pauliacomi/pygaps)
-- [PorousMaterials.jl](https://github.com/SimonEnsemble/PorousMaterials.jl)(Julia-based MC software for porous materials)
-- [pyIAST](https://github.com/CorySimon/pyIAST)(python-based IAST program)
-- [IAST++](https://sangwon91.github.io/IASTpp/)(user-friendly IAST program)
-- [MOFid](https://snurr-group.github.io/web-mofid/)(script to identify MOF)
-- [MOF Adsorbate Initializer](https://github.com/snurr-group/mof-adsorbate-initializer)(adsorbate initializer for quantum calculations)
+- [PorousMaterials.jl](https://github.com/SimonEnsemble/PorousMaterials.jl) (Julia-based MC software for porous materials)
+- [pyIAST](https://github.com/CorySimon/pyIAST) (python-based IAST program)
+- [IAST++](https://sangwon91.github.io/IASTpp/) (user-friendly IAST program)
+- [MOFid](https://snurr-group.github.io/web-mofid/) (script to identify MOF)
+- [MOF Adsorbate Initializer](https://github.com/snurr-group/mof-adsorbate-initializer) (adsorbate initializer for quantum calculations)
 
 ### Partial Atomic Charges and Force fields
-- [EQeq](https://github.com/numat/EQeq)(Extended Charge Equilibrium method for partial atomic charges)
-- [DDEC](https://sourceforge.net/projects/ddec/)(DFT-derived partial atomic charges)
-- [REPEAT](http://titan.chem.uottawa.ca/?page_id=975)(DFT-derived partial atomic charges)
-- [MPNN Charges](https://github.com/SimonEnsemble/mpn_charges)(machine learning-derived partial atomic charges)
+- [EQeq](https://github.com/numat/EQeq) (Extended Charge Equilibrium method for partial atomic charges)
+- [DDEC](https://sourceforge.net/projects/ddec/) (DFT-derived partial atomic charges)
+- [REPEAT](http://titan.chem.uottawa.ca/?page_id=975) (DFT-derived partial atomic charges)
+- [MPNN Charges](https://github.com/SimonEnsemble/mpn_charges) (Neural Network-derived partial atomic charges)
 
 ### Machine Learning for Materials
 - [Crystals.ai](https://crystals.ai/)
@@ -62,16 +62,17 @@ permalink: /resources/
 - [USPEX](https://uspex-team.org/en)
 
 ### Software for Electronic Structure Calculations
-- [kgrid](https://github.com/WMD-group/kgrid)
-- [Setupkpoints](https://github.com/keeeto/SetupKpoints)
-- [phonopy](https://phonopy.github.io/phonopy/)
+- [kgrid](https://github.com/WMD-group/kgrid) (k-point density calculation from the input geometry for periodic quantum chemistry calculations)
+- [Setupkpoints](https://github.com/keeeto/SetupKpoints) (band structure diagram for crystal structure)
+- [phonopy](https://phonopy.github.io/phonopy/) (python code for phonon calculations)
+- [WulffPack](https://wulffpack.materialsmodeling.org/index.html) (python code to create Wulff constructions)
 
 ### Learn Python and Computational Chemistry
-- [DFT-book by John Kitchin](http://kitchingroup.cheme.cmu.edu/dft-book/dft.html)(density functional theory book)
-- [ACMM MolSim-2020](http://www.acmm.nl/molsim/molsim2020/index.html)(intro to molecular simulation)
-- [Data Camp](https://www.datacamp.com/)(free python tutorial)
-- [Jupyter](https://jupyter.org/)(on-line app for Julia, Python)
-- [Pyomo](http://www.pyomo.org/)(optimization language)
+- [DFT-book by John Kitchin](http://kitchingroup.cheme.cmu.edu/dft-book/dft.html) (density functional theory book)
+- [ACMM MolSim-2020](http://www.acmm.nl/molsim/molsim2020/index.html) (intro to molecular simulation)
+- [Data Camp](https://www.datacamp.com/) (free python tutorial)
+- [Jupyter](https://jupyter.org/) (on-line app for Julia, Python)
+- [Pyomo](http://www.pyomo.org/) (optimization language)
 
 ### MISC
 - [Markdown Guide](https://www.markdownguide.org/)
