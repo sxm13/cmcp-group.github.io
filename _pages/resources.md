@@ -79,6 +79,7 @@ permalink: /resources/
 - [CALYPSO](http://www.calypso.cn/)
 - [USPEX](https://uspex-team.org/en)
 - [TopCryst](https://topcryst.com/)
+- [ELATE](http://progs.coudert.name/elate) (mechanical properties analysis)
 
 ### Software for Electronic Structure Calculations
 - [kgrid](https://github.com/WMD-group/kgrid) (k-point density calculation from the input geometry for periodic quantum chemistry calculations)
