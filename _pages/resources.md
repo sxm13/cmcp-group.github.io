@@ -8,7 +8,7 @@ permalink: /resources/
 #### Useful tools, and on-line references related to what we do in our lab.
 
 ### Databases of Materials
-- [LBNL MaterialsProject](https://materialsproject.org/)
+* [LBNL MaterialsProject](https://materialsproject.org/)
 - [CoRE MOF DB 2019](https://zenodo.org/record/3677685#.XzeqW5MzY8M)
 - [CoRE MOF DB 2014](https://zenodo.org/record/3228673#.XzevJZMzY8M)
 - [CoRE MOF-DDEC]()
@@ -70,7 +70,3 @@ permalink: /resources/
 - [ACMM MolSim-2020](http://www.acmm.nl/molsim/molsim2020/index.html)
 - [Data Camp](https://www.datacamp.com/)
 - [Jupyter](https://jupyter.org/)
-
-
-
-- Machine Learning
