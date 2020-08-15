@@ -39,7 +39,7 @@ permalink: /resources/
 - [MosDEF](https://mosdef.org/) (python-based program for soft matter simulation)
 
 ### Softwares and Datasets for Adsorption Science
-- [zeo++](http://zeoplusplus.org/) (high-throughput script for porous materials properties)
+- [Zeo++](http://zeoplusplus.org/) (high-throughput script for porous materials properties)
 - [SESAMI](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b02116) (a script to estimate surface areas of materials from their isotherms)
 - [SESAMI-ML](https://pubs.acs.org/doi/10.1021/acs.jpclett.0c01518) (SESAMI with machine learning implementation to more accurately estimate the monolayer coverage)
 - [pyGAPS](https://github.com/pauliacomi/pygaps) (adsorption data analysis and fitting)
