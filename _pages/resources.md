@@ -5,7 +5,7 @@ excerpt: "Computational Materials and Chemical Processes Lab -- Resources"
 permalink: /resources/
 ---
 
-## Useful tools, and on-line references related to what we do in our lab.
+#### Useful tools, and on-line references related to what we do in our lab.
 
 ### Databases of Materials
 - [LBNL MaterialsProject](https://materialsproject.org/)
