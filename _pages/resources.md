@@ -25,8 +25,8 @@ permalink: /resources/
 - [LAMMPS](https://lammps.sandia.gov/)
 - [LAMMPS-correction](https://github.com/WilmerLab/lammps/tree/corrected_heatflux) (heat flux corrected version of LAMMPS)
 - [CP2K](https://www.cp2k.org/)
-- [Quantum Espresso](https://www.quantum-espresso.org/)
-- [Gaussian](https://gaussian.com/gaussian16/)
+- [Quantum Espresso, QE](https://www.quantum-espresso.org/)
+- [Gaussian16](https://gaussian.com/gaussian16/)
 - [ORCA](https://orcaforum.kofo.mpg.de/app.php/portal)
 - [GROMACS](http://www.gromacs.org/)
 
