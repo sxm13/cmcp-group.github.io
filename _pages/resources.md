@@ -21,12 +21,18 @@ permalink: /resources/
 
 ### General Atomistic Simulation Softwares
 - [RASPA](https://github.com/iRASPA/RASPA2)
+- [BRICK-CFCMC](https://gitlab.com/ETh_TU_Delft/Brick-CFCMC)
 - [LAMMPS](https://lammps.sandia.gov/)
+- [LAMMPS-correction](https://github.com/WilmerLab/lammps/tree/corrected_heatflux) (heat flux corrected version of LAMMPS)
 - [CP2K](https://www.cp2k.org/)
 - [Quantum Espresso](https://www.quantum-espresso.org/)
 - [Gaussian](https://gaussian.com/gaussian16/)
 - [ORCA](https://orcaforum.kofo.mpg.de/app.php/portal)
 - [GROMACS](http://www.gromacs.org/)
+
+### Visualizer
+- [Gabedit](https://sites.google.com/site/allouchear/Home/gabedit) (free GUI for computational chemistry)
+- [VESTA](https://jp-minerals.org/vesta/en/) (free crystal structure visualizer)
 
 ### Workflow Softwares
 - [AFLOW suite](http://www.aflowlib.org/)
@@ -34,6 +40,9 @@ permalink: /resources/
 - [pySIMM](https://pysimm.org/) (python-based program for polymer simulation)
 - [polymatic](https://nanohub.org/resources/17278) (python-based porous polymer structure generation)
 - [MosDEF](https://mosdef.org/) (python-based program for soft matter simulation)
+- [Ogre](https://www.noamarom.com/software/ogre/) (python-based slab model construction)
+- [MolSimplify](https://molsimplify.mit.edu/) (organometallic system construction)
+- [QE input generator](https://www.materialscloud.org/work/tools/qeinputgenerator) (QE input generator)
 
 ### Softwares and Datasets for Adsorption Science
 - [Zeo++](http://zeoplusplus.org/) (high-throughput script for porous materials properties)
@@ -47,6 +56,7 @@ permalink: /resources/
 - [MOFid](https://snurr-group.github.io/web-mofid/) (script to identify MOF)
 - [MOF Adsorbate Initializer](https://github.com/snurr-group/mof-adsorbate-initializer) (adsorbate initializer for quantum calculations)
 - [NIST Data Repository for Adsorption Science and Technology](https://adsorption.nist.gov/index.php#home)
+- [SynCoFinder](https://www.materialscloud.org/work/tools/sycofinder) (synthesis condition finder using ML)
 
 ### Partial Atomic Charges and Force fields
 - [TraPPE](http://trappe.oit.umn.edu/) (force field bench-marked against experimental VLE)
@@ -55,29 +65,44 @@ permalink: /resources/
 - [EQeq](https://github.com/numat/EQeq) (Extended Charge Equilibrium method for partial atomic charges)
 - [DDEC](https://sourceforge.net/projects/ddec/) (DFT-derived partial atomic charges)
 - [REPEAT](http://titan.chem.uottawa.ca/?page_id=975) (DFT-derived partial atomic charges)
+- [m-CBAC](https://pubs.acs.org/doi/10.1021/acs.jpcc.0c01524) (atom-typing partial atomic charges)
 - [MPNN Charges](https://github.com/SimonEnsemble/mpn_charges) (Neural Network-derived partial atomic charges)
 
 ### Machine Learning for Materials
 - [Crystals.ai](https://crystals.ai/)
+- [QML](https://github.com/qmlcode/qml) (ML for molecules and solids)
+- [DeepChem](https://deepchem.io/)
 
-### Crystal Structure Predictions
+### Crystal Structure Predictions and Analysis
 - [AIRSS](https://www.mtg.msm.cam.ac.uk/Codes/AIRSS)
 - [CALYPSO](http://www.calypso.cn/)
 - [USPEX](https://uspex-team.org/en)
+- [TopCryst](https://topcryst.com/)
 
 ### Software for Electronic Structure Calculations
 - [kgrid](https://github.com/WMD-group/kgrid) (k-point density calculation from the input geometry for periodic quantum chemistry calculations)
 - [Setupkpoints](https://github.com/keeeto/SetupKpoints) (band structure diagram for crystal structure)
 - [phonopy](https://phonopy.github.io/phonopy/) (python code for phonon calculations)
 - [WulffPack](https://wulffpack.materialsmodeling.org/index.html) (python code to create Wulff constructions)
+- [GPView](https://life-tp.com/gpview/) (visualize orbitals)
+- [LOBSTER](http://www.cohp.de/) (Crystal Orbital Hamilton Populations)
 
-### Learn Python and Computational Chemistry
+### Learn Python, AI, and Computational Chemistry
 - [DFT-book by John Kitchin](http://kitchingroup.cheme.cmu.edu/dft-book/dft.html) (density functional theory book)
 - [ACMM MolSim-2020](http://www.acmm.nl/molsim/molsim2020/index.html) (intro to molecular simulation)
 - [Pymatgen](https://pymatgen.org/)
 - [Data Camp](https://www.datacamp.com/) (free python tutorial)
 - [Jupyter](https://jupyter.org/) (on-line app for Julia, Python)
 - [Pyomo](http://www.pyomo.org/) (optimization language)
+- [AI Hub](https://aihub.cloud.google.com/u/0/?fbclid=IwAR2uLQjyxOsmR1dxllVAZZiCxr-9Nej1AfA6q-DWIjce1jNZgnMH7rsz_2Y)
+- [Scikit-learn](https://scikit-learn.org/stable/index.html)
+- [Mathematics for Machine Learning](https://mml-book.github.io/) (math book for ML)
+- [Computational and Inference Thinking](https://www.inferentialthinking.com/chapters/01/what-is-data-science.html) (math book)
 
 ### MISC
 - [Markdown Guide](https://www.markdownguide.org/)
+- [Matplotlib Cheatsheet](https://github.com/matplotlib/cheatsheets)
+- [LaTex Table Generator](https://www.tablesgenerator.com/)
+- [GROMACS MD Tutorial](http://www.mdtutorials.com/index.html)
+- [Materials Exchange](https://mattermodeling.stackexchange.com/)
+- [Layerd Materials Setup with GROMACS](https://erastova.xyz/teaching/practical-simulations-for-molecules-and-materials/material-simulations/material-simulations-set-up/)
