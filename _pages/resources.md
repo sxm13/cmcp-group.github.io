@@ -5,7 +5,7 @@ excerpt: "Computational Materials and Chemical Processes Lab -- Resources"
 permalink: /resources/
 ---
 
-#### Useful tools, and on-line references related to what we do in our lab.
+#### Useful software tools and on-line references related to what we do in our lab.
 
 ### Databases of Materials
 * [LBNL MaterialsProject](https://materialsproject.org/)
@@ -67,7 +67,11 @@ permalink: /resources/
 - [phonopy](https://phonopy.github.io/phonopy/)
 
 ### Learn Python and Computational Chemistry
-- [DFT-book by John Kitchin](http://kitchingroup.cheme.cmu.edu/dft-book/dft.html)
-- [ACMM MolSim-2020](http://www.acmm.nl/molsim/molsim2020/index.html)
-- [Data Camp](https://www.datacamp.com/)
-- [Jupyter](https://jupyter.org/)
+- [DFT-book by John Kitchin](http://kitchingroup.cheme.cmu.edu/dft-book/dft.html)(density functional theory book)
+- [ACMM MolSim-2020](http://www.acmm.nl/molsim/molsim2020/index.html)(intro to molecular simulation)
+- [Data Camp](https://www.datacamp.com/)(free python tutorial)
+- [Jupyter](https://jupyter.org/)(on-line app for Julia, Python)
+- [Pyomo](http://www.pyomo.org/)(optimization language)
+
+### MISC
+- [Markdown Guide](https://www.markdownguide.org/)
