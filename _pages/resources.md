@@ -10,7 +10,7 @@ permalink: /resources/
 ### Databases of Materials
 - [LBNL MaterialsProject](https://materialsproject.org/)
 - [CoRE MOF](https://cmcp-group.github.io/CoRE-MOFs/)
-- [ToBaCCo MOF DB](https://github.com/tobacco-mofs/tobacco_3.0)
+- [ToBaCCo MOF](https://github.com/tobacco-mofs/tobacco_3.0)
 - [CURATED-COF](https://github.com/danieleongari/CURATED-COFs)
 - [OQMD](http://oqmd.org/)
 - [NIST JARVIS](https://www.ctcms.nist.gov/~knc6/JARVIS.html)
