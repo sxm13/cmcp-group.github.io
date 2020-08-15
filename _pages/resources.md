@@ -31,6 +31,7 @@ permalink: /resources/
 - [GROMACS](http://www.gromacs.org/)
 
 ### Visualizer
+- [Avogadro](https://avogadro.cc/) (free Molecular Editor and Visualization)
 - [Gabedit](https://sites.google.com/site/allouchear/Home/gabedit) (free GUI for computational chemistry)
 - [VESTA](https://jp-minerals.org/vesta/en/) (free crystal structure visualizer)
 
