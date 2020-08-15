@@ -9,10 +9,7 @@ permalink: /resources/
 
 ### Databases of Materials
 - [LBNL MaterialsProject](https://materialsproject.org/)
-- [CoRE MOF 2019](https://zenodo.org/record/3677685#.XzeqW5MzY8M)
-- [CoRE MOF 2014-DDEC](https://zenodo.org/record/3986573#.XzfERJMzY8M)
-- [DFT-optimized CoRE MOF 2014](https://zenodo.org/record/3986569#.XzfCsZMzY8M)
-- [CoRE MOF 2014](https://zenodo.org/record/3228673#.XzevJZMzY8M)
+- [CoRE MOF](https://cmcp-group.github.io/CoRE-MOFs/)
 - [ToBaCCo MOF DB](https://github.com/tobacco-mofs/tobacco_3.0)
 - [CURATED-COF](https://github.com/danieleongari/CURATED-COFs)
 - [OQMD](http://oqmd.org/)
