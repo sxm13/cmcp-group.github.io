@@ -78,7 +78,7 @@ permalink: /resources/
 - [AIRSS](https://www.mtg.msm.cam.ac.uk/Codes/AIRSS)
 - [CALYPSO](http://www.calypso.cn/)
 - [USPEX](https://uspex-team.org/en)
-- [TopCryst](https://topcryst.com/)
+- [TopCryst](https://topcryst.com/) (crystal topology determination)
 - [ELATE](http://progs.coudert.name/elate) (mechanical properties analysis)
 
 ### Software for Electronic Structure Calculations
