@@ -94,6 +94,7 @@ permalink: /resources/
 - [DFT-book by John Kitchin](http://kitchingroup.cheme.cmu.edu/dft-book/dft.html) (density functional theory book)
 - [ACMM MolSim-2020](http://www.acmm.nl/molsim/molsim2020/index.html) (intro to molecular simulation)
 - [Pymatgen](https://pymatgen.org/)
+- [ASE](https://wiki.fysik.dtu.dk/ase/) (tools and Python modules for setting up, manipulating, running, visualizing and analyzing atomistic simulations)
 - [Data Camp](https://www.datacamp.com/) (free python tutorial)
 - [Jupyter](https://jupyter.org/) (on-line app for Julia, Python)
 - [Pyomo](http://www.pyomo.org/) (optimization language)
