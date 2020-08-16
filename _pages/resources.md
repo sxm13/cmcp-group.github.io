@@ -4,9 +4,9 @@ layout: textlay
 excerpt: "Computational Materials and Chemical Processes Lab -- Resources"
 permalink: /resources/
 ---
-Last updated on $date
-
 #### Useful software tools and on-line references related to what we do in our lab.
+
+Link last updated on August, 2020
 
 ### Databases of Materials
 - [LBNL MaterialsProject](https://materialsproject.org/)
