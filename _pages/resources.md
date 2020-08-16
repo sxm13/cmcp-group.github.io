@@ -69,6 +69,7 @@ Link last updated on August, 2020
 - [LAMMPS-Interface](https://github.com/peteboyd/lammps_interface) (assigns bonded FF parameters for MOFs)
 - [QuickFF](https://github.com/molmod/QuickFF) (MOF force field from ab initio data)
 - [EQeq](https://github.com/numat/EQeq) (Extended Charge Equilibrium method for partial atomic charges)
+- [EQeq+c](https://pubs.acs.org/doi/10.1021/acs.jctc.5b00037) (EQeq with correction for high-oxidation-state transition metal atoms)
 - [DDEC](https://sourceforge.net/projects/ddec/) (DFT-derived partial atomic charges)
 - [REPEAT](http://titan.chem.uottawa.ca/?page_id=975) (DFT-derived partial atomic charges)
 - [m-CBAC](https://pubs.acs.org/doi/10.1021/acs.jpcc.0c01524) (atom-typing partial atomic charges)
