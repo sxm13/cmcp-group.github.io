@@ -4,6 +4,7 @@ layout: textlay
 excerpt: "Computational Materials and Chemical Processes Lab -- Resources"
 permalink: /resources/
 ---
+date: "Last updated on `r format(Sys.time(), '%B, %Y')`"
 
 #### Useful software tools and on-line references related to what we do in our lab.
 
@@ -30,7 +31,8 @@ permalink: /resources/
 - [ORCA](https://orcaforum.kofo.mpg.de/app.php/portal)
 - [GROMACS](http://www.gromacs.org/)
 
-### Visualizer
+### Visualizer and Editors
+- [VMD](https://www.ks.uiuc.edu/Research/vmd/) (visualizer for MD trajectories)
 - [Avogadro](https://avogadro.cc/) (free Molecular Editor and Visualization)
 - [Gabedit](https://sites.google.com/site/allouchear/Home/gabedit) (free GUI for computational chemistry)
 - [VESTA](https://jp-minerals.org/vesta/en/) (free crystal structure visualizer)
@@ -110,3 +112,5 @@ permalink: /resources/
 - [GROMACS MD Tutorial](http://www.mdtutorials.com/index.html)
 - [Materials Exchange](https://mattermodeling.stackexchange.com/)
 - [Layerd Materials Setup with GROMACS](https://erastova.xyz/teaching/practical-simulations-for-molecules-and-materials/material-simulations/material-simulations-set-up/)
+- [WebPlotDigitizer](https://apps.automeris.io/wpd/) (extracting data from figure plots)
+- [PackMol](http://m3g.iqm.unicamp.br/packmol/home.shtml) (prepares input geometry for MD simulations)
