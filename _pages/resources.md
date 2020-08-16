@@ -4,7 +4,7 @@ layout: textlay
 excerpt: "Computational Materials and Chemical Processes Lab -- Resources"
 permalink: /resources/
 ---
-date: "Last updated on `r format(Sys.time(), '%B, %Y')`"
+Last updated on $date
 
 #### Useful software tools and on-line references related to what we do in our lab.
 
