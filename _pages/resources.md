@@ -46,6 +46,7 @@ Link last updated on August, 2020
 - [Ogre](https://www.noamarom.com/software/ogre/) (python-based slab model construction)
 - [MolSimplify](https://molsimplify.mit.edu/) (organometallic system construction)
 - [QE input generator](https://www.materialscloud.org/work/tools/qeinputgenerator) (QE input generator)
+- [PackMol](http://m3g.iqm.unicamp.br/packmol/home.shtml) (prepares input geometry for MD simulations)
 
 ### Softwares and Datasets for Adsorption Science
 - [Zeo++](http://zeoplusplus.org/) (high-throughput script for porous materials properties)
@@ -113,4 +114,3 @@ Link last updated on August, 2020
 - [Materials Exchange](https://mattermodeling.stackexchange.com/)
 - [Layerd Materials Setup with GROMACS](https://erastova.xyz/teaching/practical-simulations-for-molecules-and-materials/material-simulations/material-simulations-set-up/)
 - [WebPlotDigitizer](https://apps.automeris.io/wpd/) (extracting data from figure plots)
-- [PackMol](http://m3g.iqm.unicamp.br/packmol/home.shtml) (prepares input geometry for MD simulations)
