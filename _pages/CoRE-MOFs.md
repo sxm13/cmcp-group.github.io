@@ -12,3 +12,8 @@ permalink: /CoRE-MOFs/
 - [CoRE MOF 2014](https://zenodo.org/record/3228673#.XhxVBsgzaUk)
 - [CoRE MOF 2014 DFT-optimized](https://zenodo.org/record/3986569#.XzfKcpMzY8N)
 - [CoRE MOF 2014 DDEC](https://zenodo.org/record/3986573#.XzfKiJMzY8N)
+
+**fundings:**
+- The work is supported by the U.S. Department of Energy, Office of Basic Energy Sciences, Division of Chemical Sciences, Geosciences and Biosciences through the Nanoporous Materials Genome Center under award numbers DE-FG02-12ER16362 and DE-FG02-17ER16362.
+- The work is supported by the Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Education (NRF-2016R1D1A1B3934484, NRF-2020R1C1C1010373).
+- These databases were developed through a collaboration of research groups participating in <a href="http://www1.chem.umn.edu/nmgc/">the Nanoporous Materials Genome Center</a> that is supported by the U.S. Department of Energy, Office of Basic Energy Sciences, Division of Chemical Sciences, Geosciences and Biosciences under Award DEFG02-12ER16362 and used resources of the Argonne Leadership Computing Facility (ALCF) at Argonne National Laboratory, which is supported by the Office of Science of the Department of Energy under contract DE-AC02-06CH11357.
