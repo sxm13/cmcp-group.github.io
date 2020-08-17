@@ -1,16 +1,16 @@
-- name: 윤성현 (Sunghyun Yun)
+- name: 윤성현 (YUN, Seonghyeon)
   photo: empty_profile.png
   info: MS/PhD student, joined March 2019
   number_educ: 1
   education1: B.S., Chemical Engineering, Pusan National University, 2019
 
-- name: 차재훈 (Jaehoon Cha)
+- name: 차재훈 (CHA, Jaehoon)
   photo: empty_profile.png
   info: MS/PhD student, joined March 2020
   number_educ: 1
   education1: B.S., Chemical Engineering, Pusan National University, 2020
 
-- name: അഞ്ജലി ഭായ് (Anjali Bai)
+- name: അഞ്ജലി ഭായ് (BAI, Anjali)
   photo: empty_profile.png
   info: Postdoc, joined April 2020
   number_educ: 3
@@ -18,7 +18,7 @@
   education2: MSc., St. Aloysius College, 2011
   education3: BSc., Chemistry, Microbiology, Zoology, St. Aloysius College, 2009
 
-- name: 가성빈 (Ga Seongbin)
+- name: 가성빈 (GA, Seongbin)
   photo: seongbin.jpeg
   info: Postdoc, joined August 2020
   number_educ: 3
@@ -26,14 +26,14 @@
   education2: M.S., Chemical and Biomolecular Engineering, KAIST, 2016
   education3: B.S., Chemical and Biomolecular Engineering, Yonsei University, 2013
 
-- name: 赵国斌 (Zhao Guobin)
+- name: 赵国斌 (ZHAO, Guobin)
   photo: empty_profile.png
   info: PhD Student, joined September 2020
   number_educ: 2
   education1: M.S., Jimei University, 2020
   education2: B.S., Zhejiang Ocean University, 2018
 
-- name: 陈豫 (Chen Yu)
+- name: 陈豫 (CHEN, Yu)
   photo: empty_profile.png
   info: MS/PhD student, joined September 2020
   number_educ: 1
