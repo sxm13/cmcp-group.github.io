@@ -60,9 +60,11 @@ Link last updated on August, 2020
 - [IAST++](https://sangwon91.github.io/IASTpp/) (user-friendly IAST program)
 - [MOFid](https://snurr-group.github.io/web-mofid/) (script to identify MOF)
 - [MOF Adsorbate Initializer](https://github.com/arosen93/mof-adsorbate-initializer) (adsorbate initializer for quantum calculations)
+- [pyISOP](https://github.com/snurr-group/pyIsoP) (isotherm prediction based on energy-grids)
+- [SorbNet](https://github.com/SiepmannGroup/desorption) (deep neural network for complex binary sorption equilibria)
 - [pyMOFscreen](https://github.com/arosen93/mof_screen) (script for HT QM screening of MOFs)
 - [NIST Data Repository for Adsorption Science and Technology](https://adsorption.nist.gov/index.php#home)
-- [SynCoFinder](https://www.materialscloud.org/work/tools/sycofinder) (synthesis condition finder using ML)
+- [MemPy](http://license.umn.edu/technologies/2020-209_mempy-v1-0-simulation-software-for-gas-separation-using-spiral-wound-membrane-modules) (simulation software for gas separation using spiral-wound membrane modules)
 
 ### Partial Atomic Charges and Force fields
 - [TraPPE](http://trappe.oit.umn.edu/) (force field bench-marked against experimental VLE)
@@ -75,10 +77,12 @@ Link last updated on August, 2020
 - [m-CBAC](https://pubs.acs.org/doi/10.1021/acs.jpcc.0c01524) (atom-typing partial atomic charges)
 - [MPNN Charges](https://github.com/SimonEnsemble/mpn_charges) (Neural Network-derived partial atomic charges)
 
-### Machine Learning for Materials
+### Machine Learning for Materials and Synthesis
 - [Crystals.ai](https://crystals.ai/)
 - [QML](https://github.com/qmlcode/qml) (ML for molecules and solids)
 - [DeepChem](https://deepchem.io/)
+- [Chemical VAE](https://github.com/aspuru-guzik-group/chemical_vae) (variational autoencoder (VAE) for use with molecular SMILES)
+- [SynCoFinder](https://www.materialscloud.org/work/tools/sycofinder) (synthesis condition finder using ML)
 
 ### Crystal Structure Predictions and Analysis
 - [AIRSS](https://www.mtg.msm.cam.ac.uk/Codes/AIRSS)
