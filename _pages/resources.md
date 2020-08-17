@@ -60,11 +60,12 @@ Link last updated on August, 2020
 - [IAST++](https://sangwon91.github.io/IASTpp/) (user-friendly IAST program)
 - [MOFid](https://snurr-group.github.io/web-mofid/) (script to identify MOF)
 - [MOF Adsorbate Initializer](https://github.com/arosen93/mof-adsorbate-initializer) (adsorbate initializer for quantum calculations)
-- [pyISOP](https://github.com/snurr-group/pyIsoP) (isotherm prediction based on energy-grids)
+- [pyIsoP](https://github.com/snurr-group/pyIsoP) (isotherm prediction based on energy-grids)
 - [SorbNet](https://github.com/SiepmannGroup/desorption) (deep neural network for complex binary sorption equilibria)
 - [pyMOFscreen](https://github.com/arosen93/mof_screen) (script for HT QM screening of MOFs)
 - [NIST Data Repository for Adsorption Science and Technology](https://adsorption.nist.gov/index.php#home)
 - [MemPy](http://license.umn.edu/technologies/2020-209_mempy-v1-0-simulation-software-for-gas-separation-using-spiral-wound-membrane-modules) (simulation software for gas separation using spiral-wound membrane modules)
+- [OMS detector](https://github.com/emmhald/open_metal_detector) (script to detect open metal sites in MOF dataset)
 
 ### Partial Atomic Charges and Force fields
 - [TraPPE](http://trappe.oit.umn.edu/) (force field bench-marked against experimental VLE)
