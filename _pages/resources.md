@@ -120,3 +120,4 @@ Link last updated on August, 2020
 - [GROMACS MD Tutorial](http://www.mdtutorials.com/index.html)
 - [Materials Exchange](https://mattermodeling.stackexchange.com/)
 - [WebPlotDigitizer](https://apps.automeris.io/wpd/) (extracting data from figure plots)
+- [KISTI Supercomputing Blog](https://blog.ksc.re.kr/) (KSC blog to get started with supercomputing, written in Korean)
