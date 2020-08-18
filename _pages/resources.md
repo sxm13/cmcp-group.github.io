@@ -77,6 +77,7 @@ Link last updated on August, 2020
 - [REPEAT](http://titan.chem.uottawa.ca/?page_id=975) (DFT-derived partial atomic charges)
 - [m-CBAC](https://pubs.acs.org/doi/10.1021/acs.jpcc.0c01524) (atom-typing partial atomic charges)
 - [MPNN Charges](https://github.com/SimonEnsemble/mpn_charges) (Neural Network-derived partial atomic charges)
+- [LigParGen](http://zarbi.chem.yale.edu/ligpargen/) (automated  OPLS force field parameter generator for small molecules)
 
 ### Machine Learning for Materials and Synthesis
 - [Crystals.ai](https://crystals.ai/)
